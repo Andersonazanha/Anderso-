@@ -1,6 +1,6 @@
-# Modelo — Ficha do Avatar (Passo 2)
+# Modelo — Ficha do Avatar (Passos 2 e 4)
 
-> Preencha pensando em UMA pessoa real (de preferência alguém com quem você conversou no Passo 3).
+> Preencha pensando em UMA pessoa real (de preferência alguém com quem você conversou no Passo 4).
 
 ## Quem é
 - Nome fictício: 

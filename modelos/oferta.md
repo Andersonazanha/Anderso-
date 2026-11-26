@@ -1,4 +1,4 @@
-# Modelo — Oferta em 1 página (Passo 4)
+# Modelo — Oferta em 1 página (Passo 5)
 
 ## 1. Nome da oferta
 (Fórmula: razão/ímã + público + resultado + tempo + formato. Ex.: "Desafio Restaurante Cheio em 30 Dias")
@@ -60,5 +60,5 @@ Texto da garantia:
 Preço:                          R$ ______
 (−) Taxa da plataforma (~10% + fixo): R$ ______
 (−) Impostos (pergunte ao contador):  R$ ______
-(=) Lucro bruto por venda:      R$ ______   ← este é o seu CPA máximo no Passo 9
+(=) Lucro bruto por venda:      R$ ______   ← este é o seu CPA máximo no Passo 10
 ```

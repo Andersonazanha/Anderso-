@@ -1,4 +1,4 @@
-# Modelo — Página de vendas em 13 blocos (Passo 6)
+# Modelo — Página de vendas em 13 blocos (Passo 8)
 
 Preencha cada bloco. Frases entre colchetes são para substituir.
 

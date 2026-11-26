@@ -1,4 +1,4 @@
-# Modelo — Calendário de conteúdo de 30 dias (Passo 8)
+# Modelo — Calendário de conteúdo de 30 dias (Passo 3)
 
 Legenda dos tipos: **A** = Alcance · **E** = Ensino/Autoridade · **C** = Conexão/História · **V** = Venda
 

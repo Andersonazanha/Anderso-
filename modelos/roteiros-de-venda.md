@@ -1,4 +1,4 @@
-# Modelo — Roteiros de venda (Passo 10)
+# Modelo — Roteiros de venda (Passo 9)
 
 > Personalize SEMPRE. Copiar e colar igual para todo mundo parece spam e queima sua imagem.
 
@@ -10,7 +10,7 @@
 **Para quem baixou a isca:**
 > Oi, [nome]! Aqui é [seu nome]. Vi que você baixou o [isca]. Conseguiu dar uma olhada? Qual parte foi mais útil pra você?
 
-**Para quem conversou no Passo 3:**
+**Para quem conversou no Passo 4:**
 > Oi, [nome]! Lembra da nossa conversa sobre [dor]? Fiquei pensando no que você me contou. Como estão as coisas?
 
 ## 2. Diagnóstico (perguntas)
@@ -55,7 +55,7 @@ Depois disso: **pare.** Mantenha a pessoa no seu conteúdo e na lista para a pr�
 
 ## Sequência de lançamento
 
-Mensagens para o grupo de WhatsApp / lista / e-mail no lançamento semente do Passo 10.
+Mensagens para o grupo de WhatsApp / lista / e-mail na abertura do Passo 9.
 
 **Pré-lançamento (Dia 1–3)**
 - **D1:** "Bem-vindo(a)! Dia [X] às [hora] vou te mostrar ao vivo [promessa da aula]. Ative as notificações. Me conta aqui: qual sua maior dificuldade com [tema]?"

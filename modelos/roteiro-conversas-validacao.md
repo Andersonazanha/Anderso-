@@ -1,4 +1,4 @@
-# Modelo — Roteiro de conversas de validação (Passo 3)
+# Modelo — Roteiro de conversas de validação (Passo 4)
 
 Baseado em *The Mom Test* (Rob Fitzpatrick). Duração: 15–20 minutos. **Fale 20%, escute 80%.**
 

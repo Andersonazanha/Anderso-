@@ -20,7 +20,7 @@ Preços e planos mudam — confira no site oficial.
 
 ## Por etapa
 
-### Pesquisa e validação (Passos 2–3)
+### Pesquisa e validação (Passos 2 e 4)
 | Ferramenta | Uso | Custo |
 |---|---|---|
 | Biblioteca de Anúncios da Meta | Espionar anúncios ativos do nicho | Grátis |
@@ -31,7 +31,7 @@ Preços e planos mudam — confira no site oficial.
 | Google Forms / Typeform | Questionários | Grátis |
 | Calendly / Google Agenda | Agendar conversas | Grátis |
 
-### Criação de produto e conteúdo (Passos 5 e 8)
+### Criação de produto e conteúdo (Passos 3 e 6)
 | Ferramenta | Uso | Custo |
 |---|---|---|
 | CapCut | Edição de vídeo e legendas | Grátis / Pro |
@@ -43,7 +43,7 @@ Preços e planos mudam — confira no site oficial.
 | ChatGPT / Claude / Gemini | Roteiros, ideias, estrutura, copy | Grátis / pago |
 | Microfone de lapela | Áudio limpo | R$ 30–150 |
 
-### Venda, checkout e entrega (Passos 6–7)
+### Venda, checkout e entrega (Passos 7 e 8)
 | Ferramenta | Uso | Custo |
 |---|---|---|
 | Hotmart | Checkout, área de membros, afiliados | ~9,9% + taxa fixa por venda |
@@ -53,7 +53,7 @@ Preços e planos mudam — confira no site oficial.
 | Carrd / Framer / WordPress+Elementor / Canva Sites | Página de vendas | Grátis a ~R$ 50/mês |
 | Registro.br | Domínio .com.br | ~R$ 40/ano |
 
-### Medição (Passos 7 e 9)
+### Medição (Passos 7 e 10)
 | Ferramenta | Uso | Custo |
 |---|---|---|
 | Pixel da Meta + API de Conversões | Rastrear vendas dos anúncios | Grátis |
@@ -62,7 +62,7 @@ Preços e planos mudam — confira no site oficial.
 | Gerador de UTM (Google Campaign URL Builder) | Rastrear links | Grátis |
 | Google Sheets | Planilha de métricas | Grátis |
 
-### Relacionamento e automação (Passos 8 e 10)
+### Relacionamento e automação (Passos 4, 8 e 9)
 | Ferramenta | Uso | Custo |
 |---|---|---|
 | WhatsApp Business (app) | Atendimento, catálogo, etiquetas, listas | Grátis |
@@ -72,7 +72,7 @@ Preços e planos mudam — confira no site oficial.
 | ActiveCampaign | E-mail + automação avançada | Pago |
 | Meta Business Suite / mLabs / Metricool | Agendar e analisar posts | Grátis / pago |
 
-### Tráfego pago (Passo 9)
+### Tráfego pago (Passo 10)
 | Ferramenta | Uso |
 |---|---|
 | Gerenciador de Anúncios da Meta | Anúncios Instagram/Facebook |
