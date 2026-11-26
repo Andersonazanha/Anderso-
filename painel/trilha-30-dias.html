@@ -1,0 +1,434 @@
+<title>Trilha 30 Dias</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a single study column — trail of 30 day-segments on top, today's card open, the other days folded below. */
+:root {
+  --bg: #f3f5f9;
+  --surface: #ffffff;
+  --ink: #16203a;
+  --muted: #5d6680;
+  --line: #dde2ec;
+  --accent: #2f55d4;
+  --accent-soft: #e5ebfc;
+  --done: #178a57;
+  --done-soft: #e1f4ea;
+  --warn: #b8660b;
+  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Figtree", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1320; --surface: #161d2e; --ink: #e7ebf4; --muted: #9aa4bd; --line: #26304a;
+    --accent: #87a5ff; --accent-soft: #1f2a4a; --done: #4cc98d; --done-soft: #15322a; --warn: #f0a24a;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1320; --surface: #161d2e; --ink: #e7ebf4; --muted: #9aa4bd; --line: #26304a;
+  --accent: #87a5ff; --accent-soft: #1f2a4a; --done: #4cc98d; --done-soft: #15322a; --warn: #f0a24a;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.5;
+}
+.wrap {
+  max-width: 760px; margin: 0 auto;
+  padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 22px;
+}
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(1.9rem, 6vw, 2.6rem); font-weight: 800; letter-spacing: -0.02em; line-height: 1.05; }
+.eyebrow { font-size: .75rem; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); font-weight: 600; }
+.sub { color: var(--muted); margin: 6px 0 0; max-width: 60ch; }
+
+/* Summary */
+.summary { display: grid; gap: 14px; }
+.stats { display: flex; flex-wrap: wrap; gap: 10px 26px; align-items: baseline; }
+.big { font-family: var(--font-display); font-weight: 800; font-size: 2.4rem; line-height: 1; font-variant-numeric: tabular-nums; }
+.stat small { display: block; color: var(--muted); font-size: .8rem; }
+.sync { font-size: .8rem; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+.sync::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.sync[data-state="ok"]::before { background: var(--done); }
+.sync[data-state="local"]::before { background: var(--warn); }
+
+/* Trail of 30 segments */
+.trail { display: grid; grid-template-columns: repeat(30, 1fr); gap: 3px; }
+.seg {
+  height: 26px; border: 0; border-radius: 4px; padding: 0; cursor: pointer;
+  background: var(--line); position: relative; overflow: hidden;
+}
+.seg span { position: absolute; inset: auto 0 0 0; background: var(--done); }
+.seg.today { outline: 2px solid var(--accent); outline-offset: 1px; }
+.seg:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.trail-legend { display: flex; justify-content: space-between; font-family: var(--font-mono); font-size: .72rem; color: var(--muted); }
+.weeks { display: grid; grid-template-columns: 7fr 7fr 7fr 9fr; gap: 3px; font-size: .72rem; color: var(--muted); }
+.weeks div { border-top: 2px solid var(--line); padding-top: 4px; }
+
+/* Day cards */
+.days { display: grid; gap: 10px; }
+details.day { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+details.day[open] { border-color: var(--accent); }
+details.day.complete summary .num { background: var(--done); color: var(--surface); border-color: var(--done); }
+summary {
+  list-style: none; cursor: pointer; display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center;
+  padding: 12px 14px;
+}
+summary::-webkit-details-marker { display: none; }
+summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 12px; }
+.num {
+  width: 42px; height: 42px; border-radius: 10px; border: 1.5px solid var(--line);
+  display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; font-size: 1.05rem;
+  font-variant-numeric: tabular-nums;
+}
+.day.is-today .num { border-color: var(--accent); color: var(--accent); }
+.dtitle { min-width: 0; }
+.dtitle strong { display: block; font-weight: 600; }
+.dtitle span { color: var(--muted); font-size: .85rem; }
+.count { font-family: var(--font-mono); font-size: .8rem; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.badge { font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; color: var(--accent); background: var(--accent-soft); padding: 2px 8px; border-radius: 99px; margin-left: 6px; vertical-align: 2px; }
+.daybody { padding: 0 14px 16px; display: grid; gap: 14px; }
+.tasks { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.task label {
+  display: grid; grid-template-columns: 26px 1fr; gap: 10px; align-items: start;
+  padding: 9px 8px; border-radius: 8px; cursor: pointer;
+}
+.task label:hover { background: var(--bg); }
+.task input { width: 20px; height: 20px; margin: 2px 0 0; accent-color: var(--done); cursor: pointer; }
+.task .tid { font-family: var(--font-mono); font-size: .8rem; color: var(--muted); margin-right: 6px; }
+.task input:checked + span { color: var(--muted); text-decoration: line-through; text-decoration-color: var(--line); }
+.task.routine .tid { color: var(--accent); }
+.dayfoot { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+.send { background: var(--accent-soft); border-radius: 10px; padding: 12px; display: grid; gap: 8px; }
+.send p { margin: 0; font-size: .92rem; }
+.send .label { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; font-weight: 600; color: var(--accent); }
+.row { display: flex; flex-wrap: wrap; gap: 8px; }
+button.btn, a.btn {
+  font: inherit; font-size: .88rem; font-weight: 600; border-radius: 8px; padding: 8px 12px; cursor: pointer;
+  border: 1.5px solid var(--accent); background: var(--accent); color: var(--surface); text-decoration: none;
+}
+button.btn.ghost, a.btn.ghost { background: transparent; color: var(--accent); }
+button.btn:focus-visible, a.btn:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+
+/* Scoreboard */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; display: grid; gap: 12px; }
+.score { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.score label { display: grid; gap: 4px; font-size: .8rem; color: var(--muted); font-weight: 500; }
+.score input {
+  font: inherit; font-size: 1.15rem; font-family: var(--font-display); font-weight: 600; color: var(--ink);
+  background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; width: 100%;
+  font-variant-numeric: tabular-nums;
+}
+.score input:focus-visible { outline: 2px solid var(--accent); border-color: var(--accent); }
+.note { font-size: .82rem; color: var(--muted); margin: 0; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center; }
+@media (max-width: 480px) {
+  .seg { height: 20px; }
+  .trail { gap: 2px; }
+  .num { width: 36px; height: 36px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .seg span { transition: height .25s ease; }
+}
+</style>
+
+<main class="wrap">
+  <header>
+    <div class="eyebrow">Tutoria · do zero à primeira venda</div>
+    <h1>Trilha 30 Dias</h1>
+    <p class="sub">Marque cada tarefa ao terminar. No fim do dia, copie a mensagem e mande para o tutor na conversa.</p>
+  </header>
+
+  <section class="summary" aria-label="Resumo do progresso">
+    <div class="stats">
+      <div class="stat"><div class="big" id="pct">0%</div><small>do programa concluído</small></div>
+      <div class="stat"><div class="big" id="today-num">1</div><small>dia em que você está</small></div>
+      <div class="stat"><div class="big" id="tasks-done">0</div><small id="tasks-total">tarefas feitas</small></div>
+    </div>
+    <div>
+      <div class="trail" id="trail" aria-label="Os 30 dias"></div>
+      <div class="weeks" aria-hidden="true"><div>Semana 1 · base</div><div>Semana 2 · produto</div><div>Semana 3 · vendas</div><div>Semana 4 · anúncios</div></div>
+    </div>
+    <div class="toolbar">
+      <div class="sync" id="sync" data-state="wait">Carregando seu progresso…</div>
+      <div class="row">
+        <button class="btn ghost" type="button" id="btn-today">Ir para hoje</button>
+        <button class="btn ghost" type="button" id="btn-fold">Fechar todos</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="days" id="days" aria-label="Dias da trilha"></section>
+
+  <section class="panel" aria-labelledby="score-h">
+    <h2 id="score-h" style="font-size:1.25rem">Meu placar</h2>
+    <p class="note">Atualize sempre que mudar. O tutor consegue ler estes números para te orientar.</p>
+    <div class="score">
+      <label for="m-seguidores">Seguidores<input id="m-seguidores" inputmode="numeric" data-metric="seguidores" placeholder="0"></label>
+      <label for="m-vip">Pessoas na Lista VIP<input id="m-vip" inputmode="numeric" data-metric="listaVip" placeholder="0"></label>
+      <label for="m-vendas">Vendas<input id="m-vendas" inputmode="numeric" data-metric="vendas" placeholder="0"></label>
+      <label for="m-fat">Faturamento (R$)<input id="m-fat" inputmode="decimal" data-metric="faturamento" placeholder="0,00"></label>
+      <label for="m-ads">Investido em anúncios (R$)<input id="m-ads" inputmode="decimal" data-metric="investidoAds" placeholder="0,00"></label>
+    </div>
+  </section>
+</main>
+
+<script>
+(() => {
+  const REPO = "https://github.com/Andersonazanha/Anderso-/blob/claude/nifty-cori-txlpym/";
+  const STEPS = {
+    1: ["Base: contas e ferramentas", "passos/01-base-contas-e-ferramentas.md"],
+    2: ["Nicho e produto certo", "passos/02-nicho-e-produto.md"],
+    3: ["Instagram e conteúdo diário", "passos/03-instagram-e-conteudo.md"],
+    4: ["Validação e Lista VIP", "passos/04-validacao-e-lista-vip.md"],
+    5: ["Oferta e preço", "passos/05-oferta-e-preco.md"],
+    6: ["Criação do e-book", "passos/06-criacao-do-ebook.md"],
+    7: ["Kiwify, checkout e pixel", "passos/07-kiwify-checkout-e-pixel.md"],
+    8: ["Página de vendas e automações", "passos/08-pagina-de-vendas-e-automacoes.md"],
+    9: ["Abertura e primeiras vendas", "passos/09-primeiras-vendas.md"],
+    10: ["Anúncios na Meta e escala", "passos/10-anuncios-e-escala.md"]
+  };
+  const T = {
+    "1.1":"Criar o e-mail do negócio","1.2":"Pastas no Google Drive","1.3":"Instalar os aplicativos","1.4":"Configurar o WhatsApp Business","1.5":"Conta no Canva",
+    "1.6":"Conta na IA (ChatGPT ou Claude)","1.7":"Conta na Kiwify + dados bancários","1.8":"Página do Facebook + Portfólio da Meta","1.9":"Horário fixo na agenda","1.10":"Ficha \"Quem sou eu\"",
+    "2.1":"Entender o funil low ticket","2.2":"Listar 10 ideias de tema","2.3":"Pesquisar na Biblioteca de Anúncios","2.4":"Pesquisar no mercado de afiliados","2.5":"Conferir no Google Trends",
+    "2.6":"Coletar 20 frases do público","2.7":"Dar notas e escolher","2.8":"Definir o resultado do e-book","2.9":"Pedir crítica à IA","2.10":"Decisão final + posicionamento",
+    "3.1":"Perfil pessoal ou perfil novo","3.2":"Mudar para conta profissional","3.3":"Foto, nome e bio","3.4":"Conectar à Página do Facebook","3.5":"Liberar acesso a mensagens",
+    "3.6":"3 pilares + 30 ideias de conteúdo","3.7":"Gravar e editar o 1º Reel","3.8":"Publicar o 1º Reel","3.9":"Fixar posts no perfil","3.10":"Começar a rotina diária",
+    "4.1":"Lista de 50 contatos quentes","4.2":"Story com caixinha de perguntas","4.3":"Story com enquete","4.4":"Mensagem para 20 pessoas","4.5":"3 a 5 conversas mais longas",
+    "4.6":"Criar o grupo Lista VIP","4.7":"Convidar para a Lista VIP","4.8":"Pré-venda (opcional)","4.9":"Analisar dores e objeções","4.10":"Sinal verde ou ajuste",
+    "5.1":"Escrever a transformação","5.2":"Aplicar a Equação de Valor","5.3":"Nome do e-book","5.4":"Capítulos","5.5":"Order bump",
+    "5.6":"2 bônus contra objeções","5.7":"Preço","5.8":"Garantia","5.9":"Próximo degrau (upsell)","5.10":"Pilha de valor + modelo de oferta",
+    "6.1":"Projeto na IA com contexto","6.2":"Sumário","6.3":"Escrever os demais capítulos e bônus","6.4":"Revisão","6.5":"Modelo no Canva",
+    "6.6":"Capa e mockup","6.7":"Diagramação","6.8":"Exportar o PDF","6.9":"Criar o order bump","6.10":"Enviar para 3 leitores beta",
+    "7.1":"Conta Kiwify aprovada","7.2":"Cadastrar o produto","7.3":"Entrega do PDF","7.4":"Pagamento e garantia","7.5":"Personalizar o checkout",
+    "7.6":"Cadastrar o order bump","7.7":"Criar o pixel da Meta","7.8":"Instalar o pixel na Kiwify","7.9":"Cupom VIP","7.10":"Compra de teste",
+    "8.1":"Escrever a copy da página","8.2":"Montar no Canva Sites","8.3":"Botões com link do checkout + UTM","8.4":"Rodapé legal e privacidade","8.5":"Publicar e testar no celular",
+    "8.6":"Link da página na bio","8.7":"Respostas rápidas e catálogo no WhatsApp","8.8":"ManyChat \"comente GUIA\"","8.9":"Boas-vindas no direct","8.10":"Testar o funil inteiro",
+    "9.1":"Stories de aquecimento","9.2":"Aquecer a Lista VIP","9.3":"Abertura no grupo VIP","9.4":"Live de 20 a 30 minutos","9.5":"Mensagens individuais para os quentes",
+    "9.6":"Sequência de stories de venda","9.7":"Reel de oferta + \"comente GUIA\"","9.8":"Follow-up","9.9":"Recuperar Pix e carrinhos (2ª rodada)","9.10":"Fechamento VIP + pós-venda",
+    "10.1":"Conta de anúncios + pagamento + pixel","10.2":"Calcular o CPA máximo","10.3":"4 a 6 criativos com ângulos diferentes","10.4":"Criar a campanha","10.5":"Configurar o conjunto",
+    "10.6":"Criar os anúncios e publicar","10.7":"Não mexer: fase de aprendizado","10.8":"Configurar colunas e anotar métricas","10.9":"Pausar, manter ou escalar","10.10":"Revisão dos 30 dias",
+    "x11":"Escrever introdução + capítulos 1 e 2","x22a":"Stories de venda com nova prova","x22b":"Recuperar Pix e carrinhos (1ª rodada)",
+    "x26":"Responder quem chega pelo anúncio","x27a":"Continuar sem mexer na campanha","x27b":"Recuperar Pix vindos dos anúncios",
+    "x28":"Anotar as métricas do dia","x29a":"Criar 2 a 3 criativos novos","x29b":"Recuperar Pix pendentes","x30":"Escolher com o tutor o plano do Mês 2"
+  };
+  const r = (a, b) => { const o = []; for (let i = a; i <= b; i++) o.push(i); return o; };
+  const ids = (s, list) => list.map(n => s + "." + n);
+  const DAYS = [
+    [1, 1, "1h30", ids(1, r(1,5)), "se conseguiu um chip separado para o WhatsApp e se travou em alguma tela."],
+    [2, 1, "1h30", ids(1, r(6,10)), "a ficha \"Quem sou eu\" completa."],
+    [3, 2, "1h30", ids(2, r(1,5)), "suas 5 melhores ideias com os dados que encontrou."],
+    [4, 2, "1h30", ids(2, r(6,10)), "nicho, público, promessa e posicionamento."],
+    [5, 3, "1h30", ids(3, r(1,5)), "sua bio e seu @."],
+    [6, 3, "1h30", ids(3, r(6,10)), "o link do seu primeiro Reel."],
+    [7, 4, "1h", ids(4, r(1,3)), "quantos nomes tem na lista e as primeiras respostas da caixinha."],
+    [8, 4, "1h30", ids(4, r(4,6)), "as 5 frases mais fortes que ouviu nas conversas."],
+    [9, 4, "1h30", ids(4, r(7,10)), "pessoas na Lista VIP, pré-vendas e a análise de dores e objeções."],
+    [10, 5, "2h", ids(5, r(1,10)), "a oferta completa (nome, capítulos, bônus, order bump, preço, garantia)."],
+    [11, 6, "1h30", ["6.1","6.2","x11"], ""],
+    [12, 6, "2h", ["6.3","6.4"], "o sumário final e o tamanho do texto."],
+    [13, 6, "2h", ids(6, r(5,7)), "a imagem do mockup."],
+    [14, 6, "1h30", ids(6, r(8,10)), "o número de páginas do PDF e se o order bump está pronto."],
+    [15, 7, "1h30", ids(7, r(1,5)), "o link do seu checkout."],
+    [16, 7, "1h30", ids(7, r(6,10)), "o resultado da compra de teste (acesso, PDF e evento de compra)."],
+    [17, 8, "1h30", ["8.1"], "a copy da página para revisão."],
+    [18, 8, "2h", ids(8, r(2,7)), "o link da página de vendas."],
+    [19, 8, "1h30", ids(8, r(8,10)), "o resultado do teste do funil e o tamanho da Lista VIP."],
+    [20, 9, "1h", ["9.1","9.2"], "o horário da abertura."],
+    [21, 9, "2h", ids(9, r(3,6)), "número de vendas e as objeções que apareceram."],
+    [22, 9, "1h30", ["x22a","9.7","9.8","x22b"], ""],
+    [23, 9, "1h30", ["9.9","9.10"], "vendas, faturamento, % de order bump e o que aprendeu."],
+    [24, 10, "2h", ids(10, r(1,3)), "seu CPA máximo e os ângulos dos criativos."],
+    [25, 10, "1h30", ids(10, r(4,6)), "print da campanha publicada."],
+    [26, 10, "45 min", ["10.7","x26"], ""],
+    [27, 10, "1h", ["x27a","10.8","x27b"], ""],
+    [28, 10, "1h", ["x28","10.9"], ""],
+    [29, 10, "1h30", ["x29a","x29b"], "gasto, CTR, CPC, compras e custo por compra."],
+    [30, 10, "1h", ["10.10","x30"], "a revisão completa dos 30 dias."]
+  ].map(([n, step, time, tasks, send]) => {
+    const list = tasks.slice();
+    if (n >= 7 && n !== 21 && n !== 22 && n !== 23) list.push("r" + n);
+    return { n, step, time, tasks: list, send };
+  });
+  const label = id => id.startsWith("r") ? "Rotina diária: 1 conteúdo, stories, responder todo mundo" : T[id];
+  const ALL = DAYS.flatMap(d => d.tasks);
+
+  // ---------- state ----------
+  const LS = "trilha30-v1";
+  let state = { done: {}, metrics: {} };
+  try { const raw = localStorage.getItem(LS); if (raw) state = Object.assign(state, JSON.parse(raw)); } catch (e) {}
+  const saveLocal = () => { try { localStorage.setItem(LS, JSON.stringify(state)); } catch (e) {} };
+
+  // ---------- render ----------
+  const $ = s => document.querySelector(s);
+  const daysEl = $("#days"), trailEl = $("#trail");
+  const dayDone = d => d.tasks.filter(id => state.done[id]).length;
+  const todayDay = () => (DAYS.find(d => dayDone(d) < d.tasks.length) || DAYS[DAYS.length - 1]).n;
+
+  function build() {
+    trailEl.textContent = "";
+    daysEl.textContent = "";
+    DAYS.forEach(d => {
+      const seg = document.createElement("button");
+      seg.type = "button"; seg.className = "seg"; seg.dataset.day = d.n;
+      seg.setAttribute("aria-label", "Dia " + d.n);
+      seg.appendChild(document.createElement("span"));
+      seg.addEventListener("click", () => openDay(d.n, true));
+      trailEl.appendChild(seg);
+
+      const det = document.createElement("details");
+      det.className = "day"; det.id = "dia-" + d.n;
+      const sum = document.createElement("summary");
+      const num = document.createElement("div"); num.className = "num"; num.textContent = d.n;
+      const tt = document.createElement("div"); tt.className = "dtitle";
+      const st = document.createElement("strong"); st.textContent = "Dia " + d.n + " · " + STEPS[d.step][0];
+      const sp = document.createElement("span"); sp.textContent = "Passo " + d.step + " · " + d.time;
+      tt.append(st, sp);
+      const cnt = document.createElement("div"); cnt.className = "count";
+      sum.append(num, tt, cnt);
+      det.appendChild(sum);
+
+      const body = document.createElement("div"); body.className = "daybody";
+      const ul = document.createElement("ul"); ul.className = "tasks";
+      d.tasks.forEach(id => {
+        const li = document.createElement("li"); li.className = "task" + (id.startsWith("r") ? " routine" : "");
+        const lab = document.createElement("label");
+        const cb = document.createElement("input"); cb.type = "checkbox"; cb.id = "t-" + id.replace(".", "_"); cb.dataset.id = id;
+        cb.addEventListener("change", () => toggle(id, cb.checked));
+        const txt = document.createElement("span");
+        const tid = document.createElement("span"); tid.className = "tid";
+        tid.textContent = /^\d/.test(id) ? id : (id.startsWith("r") ? "🔁" : "+");
+        txt.append(tid, document.createTextNode(label(id)));
+        lab.append(cb, txt); li.appendChild(lab); ul.appendChild(li);
+      });
+      body.appendChild(ul);
+
+      const msg = "Dia " + d.n + " concluído!" + (d.send ? "\n" + d.send.charAt(0).toUpperCase() + d.send.slice(1).replace(/\.$/, "") + ":\n" : "");
+      const send = document.createElement("div"); send.className = "send";
+      const l1 = document.createElement("div"); l1.className = "label"; l1.textContent = "Mande para o tutor";
+      const p = document.createElement("p");
+      p.textContent = "\"Dia " + d.n + " concluído\"" + (d.send ? " + " + d.send : ".");
+      const row = document.createElement("div"); row.className = "row";
+      const copy = document.createElement("button"); copy.type = "button"; copy.className = "btn"; copy.textContent = "Copiar mensagem";
+      copy.addEventListener("click", () => {
+        const text = msg;
+        const ok = () => { copy.textContent = "Copiado"; setTimeout(() => copy.textContent = "Copiar mensagem", 1600); };
+        try { navigator.clipboard.writeText(text).then(ok, () => fallback(p)); } catch (e) { fallback(p); }
+      });
+      const link = document.createElement("a"); link.className = "btn ghost"; link.target = "_blank"; link.rel = "noopener";
+      link.href = REPO + STEPS[d.step][1]; link.textContent = "Abrir o passo " + d.step;
+      row.append(copy, link);
+      send.append(l1, p, row);
+      body.appendChild(send);
+      det.appendChild(body);
+      daysEl.appendChild(det);
+    });
+  }
+  function fallback(el) {
+    const sel = window.getSelection(); const rg = document.createRange();
+    rg.selectNodeContents(el); sel.removeAllRanges(); sel.addRange(rg);
+  }
+
+  function paint() {
+    const today = todayDay();
+    let doneCount = 0;
+    DAYS.forEach(d => {
+      const k = dayDone(d); doneCount += k;
+      const det = document.getElementById("dia-" + d.n);
+      det.classList.toggle("complete", k === d.tasks.length);
+      det.classList.toggle("is-today", d.n === today);
+      det.querySelector(".count").textContent = k + "/" + d.tasks.length;
+      const st = det.querySelector(".dtitle strong");
+      const old = st.querySelector(".badge"); if (old) old.remove();
+      if (d.n === today) { const b = document.createElement("span"); b.className = "badge"; b.textContent = "hoje"; st.appendChild(b); }
+      d.tasks.forEach(id => { const cb = det.querySelector('[data-id="' + id + '"]'); cb.checked = !!state.done[id]; });
+      const seg = trailEl.querySelector('[data-day="' + d.n + '"]');
+      seg.classList.toggle("today", d.n === today);
+      seg.firstChild.style.height = (k / d.tasks.length * 100) + "%";
+      seg.title = "Dia " + d.n + ": " + k + "/" + d.tasks.length;
+    });
+    $("#pct").textContent = Math.round(doneCount / ALL.length * 100) + "%";
+    $("#today-num").textContent = today;
+    $("#tasks-done").textContent = doneCount;
+    $("#tasks-total").textContent = "de " + ALL.length + " tarefas feitas";
+    document.querySelectorAll("[data-metric]").forEach(inp => {
+      if (document.activeElement !== inp) inp.value = state.metrics[inp.dataset.metric] ?? "";
+    });
+  }
+  function openDay(n, scroll) {
+    const det = document.getElementById("dia-" + n); if (!det) return;
+    det.open = true;
+    if (scroll) det.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+  }
+
+  // ---------- persistence ----------
+  let db = null, ref = null, writing = false, dirty = false, timer = null;
+  const syncEl = $("#sync");
+  const setSync = (s, t) => { syncEl.dataset.state = s; syncEl.textContent = t; };
+  function schedule() {
+    saveLocal();
+    if (!ref) return;
+    dirty = true; clearTimeout(timer); timer = setTimeout(flush, 700);
+  }
+  async function flush() {
+    if (!ref || writing || !dirty) return;
+    writing = true; dirty = false;
+    try {
+      await ref.set({ done: state.done, metrics: state.metrics, dia: todayDay(), atualizadoEm: new Date().toISOString() });
+      setSync("ok", "Salvo na nuvem · o tutor consegue ver");
+    } catch (e) {
+      setSync("local", "Não salvou na nuvem agora. Fica guardado neste aparelho.");
+    }
+    writing = false;
+    if (dirty) flush();
+  }
+  function toggle(id, on) {
+    if (on) state.done[id] = true; else delete state.done[id];
+    paint(); schedule();
+  }
+  document.querySelectorAll("[data-metric]").forEach(inp => {
+    inp.addEventListener("change", () => {
+      const v = inp.value.trim();
+      if (v) state.metrics[inp.dataset.metric] = v; else delete state.metrics[inp.dataset.metric];
+      schedule();
+    });
+  });
+  $("#btn-today").addEventListener("click", () => openDay(todayDay(), true));
+  $("#btn-fold").addEventListener("click", () => document.querySelectorAll("details.day").forEach(d => d.open = false));
+
+  build(); paint(); openDay(todayDay(), false);
+
+  (async () => {
+    const loadTimer = setTimeout(() => {
+      if (syncEl.dataset.state === "wait") setSync("local", "Sem conexão com a nuvem ainda. Seu progresso fica guardado neste aparelho.");
+    }, 10000);
+    try { db = window.claude && window.claude.use ? await window.claude.use("db") : null; } catch (e) { db = null; }
+    if (!db) { clearTimeout(loadTimer); setSync("local", "Salvo só neste aparelho"); return; }
+    ref = db.doc("progresso/aluno");
+    let first = true;
+    ref.onSnapshot(snap => {
+      if (!snap.metadata.fromCache) clearTimeout(loadTimer);
+      if (snap.exists) {
+        const d = snap.data() || {};
+        if (!snap.metadata.hasPendingWrites) {
+          state.done = Object.assign({}, d.done || {});
+          state.metrics = Object.assign({}, d.metrics || {});
+          saveLocal(); paint();
+        }
+        if (!snap.metadata.fromCache) setSync("ok", "Salvo na nuvem · o tutor consegue ver");
+      } else if (first && !snap.metadata.fromCache) {
+        if (Object.keys(state.done).length || Object.keys(state.metrics).length) { dirty = true; flush(); }
+        else setSync("ok", "Pronto · seu progresso será salvo na nuvem");
+      }
+      if (!snap.metadata.fromCache) { if (first) openDay(todayDay(), false); first = false; }
+    }, () => { clearTimeout(loadTimer); ref = null; setSync("local", "Salvo só neste aparelho"); });
+  })();
+})();
+</script>

@@ -68,9 +68,15 @@ Bônus podem ser páginas extras no próprio PDF — não precisa ser outro prod
 ## ✅ Tarefa 5.7 — Defina o preço
 | Item | Valor |
 |---|---|
-| Preço normal | **R$ 37 a R$ 47** |
-| Preço de fundador (Lista VIP, 48h) | **R$ 27** (ou o que prometeu na pré-venda) |
+| Preço normal | **R$ 47** (recomendado, já que a venda principal será por anúncio na Meta) |
+| Preço de fundador (Lista VIP, 48h) | **R$ 27 a R$ 37** (ou o que prometeu na pré-venda) |
 | Order bump | **R$ 17 a R$ 27** |
+| Upsell na página de obrigado (opcional) | **R$ 67 a R$ 97** (ex.: pack avançado, aula em vídeo) |
+
+> 📣 **Por que R$ 47 para anúncio?** Na Meta, cada venda de produto barato costuma custar dezenas de reais em
+> anúncio. Abaixo de ~R$ 30 a conta quase nunca fecha. Com R$ 47 + order bump (+ upsell), o lucro por cliente
+> cobre o custo do anúncio com folga. O objetivo do low ticket é **pagar o anúncio e trazer clientes**; o lucro
+> maior vem do bump, do upsell e do próximo degrau.
 
 **Quanto sobra por venda?** (taxa aproximada da Kiwify: 8,99% + R$ 2,49 — confira a atual)
 ```

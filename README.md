@@ -8,7 +8,7 @@ Você faz um pouco por dia, me conta o que fez, e eu te digo o que vem a seguir.
 
 ## 🧭 Como funciona a tutoria
 
-1. Abra o [**CRONOGRAMA DE 30 DIAS**](CRONOGRAMA-30-DIAS.md). Ele diz exatamente o que fazer **hoje**.
+1. Abra a **[Trilha 30 Dias (página interativa)](https://claude.ai/artifact/1xWP9Qu4RZf41DVGa6nN8a)** para marcar as tarefas — ou o [**CRONOGRAMA DE 30 DIAS**](CRONOGRAMA-30-DIAS.md). Eles dizem exatamente o que fazer **hoje**.
 2. Cada dia aponta para as tarefas de um passo (ex.: "Tarefas 1.1 a 1.5"). Abra o passo e siga item por item.
 3. Ao terminar o dia, **volte aqui na conversa comigo** e escreva:
    > **"Dia 3 concluído"** + o que o cronograma pede para me mandar (respostas, prints, links).
