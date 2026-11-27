@@ -44,9 +44,9 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 
 ## 4. Status atual
 
-- **Dia atual:** Dia 1 — tarefa **1.1 (criar Gmail do negócio)** passada ao aluno, aguardando "feito".
-- **Tarefas concluídas:** nenhuma confirmada ainda (banco vazio em 27/11/2026).
-- **Próximo:** 1.2 (pastas no Drive) → 1.3 (apps) → 1.4 (WhatsApp Business) → 1.5 (Canva).
+- **Dia 1 concluído em 27/11/2026** (1.1 a 1.5 marcadas na trilha). Pendente de resposta: se tem chip separado para o WhatsApp.
+- **Dia atual:** Dia 2 — tarefa **1.6 (conta na IA)** passada ao aluno.
+- **Próximo:** 1.7 (Kiwify — verificação demora, priorizar) → 1.8 (Página do Facebook + Portfólio Meta) → 1.9 (agenda) → 1.10 (ficha "Quem sou eu", que define o nicho no Dia 3).
 
 ## 5. Conhecimento acumulado (resumo — detalhes em `ESTUDO-GRATUITO.md`)
 
@@ -112,3 +112,4 @@ pede 6–10 criativos (antes 4–6), também na trilha e no cronograma.
 ## 9. Diário das sessões
 - **Sessão 1 (26–27/11/2026):** pesquisa de mercado (taxas Hotmart/Kiwify, Instagram 2026, Meta Andromeda, legal BR, lançamentos, WhatsApp); criado o método em 10 passos; reestruturado como tutoria 10×10 + cronograma de 30 dias a pedido do aluno; criada a página interativa com progresso na nuvem; preço ajustado para R$ 47 (venda via Meta); avaliados os cursos do Drive (não usados — cópias não autorizadas); pesquisado o conteúdo gratuito atual de Ladeira, Hormozi, Sobral, Finch e Meta 2026 e aplicado nos passos 2, 5 e 10; aluno pediu para **não estudar** — tutor aprende e orienta. Aluno iniciou o Dia 1 (tarefa 1.1).
 - **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo e depois a descrição completa (25 p.) do Scaling Secrets #182 → incorporados (gargalo do dia com painel à mão, hook rate, formatos e rotina de anúncios, fio de ouro/1-2-3 na copy, roteiro de live Perfect Webinar, mapa do Mês 2). Depois enviou a transcrição da palestra do Ladeira no FIRE 2026 → incorporada (ângulos, 10 criativos, tipo de página, formatos simples). Página da trilha agora está compartilhada como "qualquer pessoa com o link" (mudança feita pelo aluno). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.
+- **27/11/2026:** aluno concluiu o Dia 1 (Gmail, pastas no Drive, apps, WhatsApp Business, Canva). Iniciando o Dia 2.
