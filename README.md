@@ -65,6 +65,7 @@ será sobre isso, e a mentoria/consultoria vira seu upsell já no mês 2.
 - 📅 [Cronograma de 30 dias (comece por aqui)](CRONOGRAMA-30-DIAS.md)
 - 🧠 [Base de conhecimento do tutor (você não precisa estudar)](ESTUDO-GRATUITO.md)
 - 📓 [Memória do tutor (registro da tutoria)](MEMORIA-DO-TUTOR.md)
+- 🕶️ [Modo "sem aparecer": ajustes do plano](MODO-SEM-APARECER.md)
 - 📋 [Modelos para preencher](modelos/) — avatar, oferta, página de vendas, roteiros, calendário, métricas
 - 🧰 [Ferramentas por etapa](ferramentas/README.md)
 - 📖 [Glossário](GLOSSARIO.md)
