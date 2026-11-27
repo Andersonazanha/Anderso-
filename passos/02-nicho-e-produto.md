@@ -107,6 +107,10 @@ Exemplos:
 - "Como **mães que trabalham fora** preparam **as marmitas da semana em 2 horas** no domingo, **sem desperdiçar comida**."
 - "Como **iniciantes** fazem as **primeiras 5 peças de amigurumi em 15 dias**, **mesmo sem nunca ter pegado numa agulha**."
 
+> 🎯 **Regra do Ladeira para low ticket (Podcast #422, FIRE 2026):** a promessa deve ser **pequena, rápida e
+> palpável**. ❌ "Transforme sua alimentação" → ✅ "As marmitas da semana prontas em 2 horas".
+> Promessa grande demais em produto barato soa falsa e vende menos.
+
 ✔️ **Pronto quando:** sua frase está escrita.
 
 ## ✅ Tarefa 2.9 — Peça para a IA criticar sua escolha

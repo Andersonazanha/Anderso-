@@ -51,6 +51,10 @@ Complete com vídeos novos (15–40s, vertical 9:16), cada um com **um ângulo**
 | 6 | **Objeção** | "Não tem tempo? Esse guia é para você." |
 
 Estrutura de cada vídeo: **gancho (3s) → problema → solução (o guia) → prova → "clique em Saiba mais"**.
+
+> ✅ **É mesmo um criativo diferente?** Cada um precisa mudar **pelo menos 2** destas coisas em relação aos outros:
+> ângulo · formato · pessoa · primeiros 3 segundos · visual. Escreva a mensagem de cada um em **uma frase**: se duas
+> frases dizem a mesma coisa, é o mesmo criativo para a Meta. ([detalhes](../ESTUDO-GRATUITO.md#meta-ads-em-2026--o-que-conta-como-criativo-diferente))
 Legendas na tela (CapCut → Legendas automáticas). Salve em `03 Conteúdo/Anúncios`.
 
 ✔️ **Pronto quando:** 4 a 6 vídeos prontos.
@@ -139,6 +143,16 @@ Iniciam checkout, não compram               → CHECKOUT/Pix: recupere pelo Wha
 | Campanha com custo abaixo do CPA máximo por **3 dias seguidos** | 📈 **Escalar:** aumente o orçamento **~20%** a cada 2–3 dias |
 
 **Toda semana:** crie **2–3 criativos novos** com ângulos diferentes (copie o ângulo do vencedor com outro gancho/pessoa/formato) e adicione ao conjunto. Criativo cansa — renove a cada 1–3 semanas.
+
+> 🧠 **O que mudou em 2026 (Andromeda):** conte seus criativos em **conceitos**, não em arquivos — 5 versões do
+> mesmo vídeo trocando a cor são **1 conceito**. Com orçamento pequeno, **2 conceitos novos por semana** é o ritmo
+> certo. Quando um anúncio cansar (custo subindo, frequência alta), crie um **ângulo novo**, não uma variação.
+>
+> 🧠 **Thiago Finch:** *troque a página antes de trocar o produto.* Anúncio com bom CTR que não vende? Teste
+> **outro título e outro ângulo na página de vendas** antes de concluir que o e-book não serve.
+>
+> ⚙️ Se a Meta alterar seus anúncios automaticamente (colocar música, texto, mexer na imagem) e você não gostar,
+> no anúncio desative **Melhorias de criativo Advantage+**.
 
 ✔️ **Pronto quando:** você tomou as decisões e criou ao menos 2 criativos novos.
 

@@ -90,11 +90,20 @@ Venda de R$ 37  → taxa ≈ R$ 3,33 + R$ 2,49 = R$ 5,82 → sobra ≈ R$ 31,18
   > **Garantia de 7 dias:** leia o guia, aplique, e se achar que não valeu cada centavo, é só pedir o reembolso
   > dentro de 7 dias. Devolvemos 100%, sem perguntas. O risco é todo nosso.
 
-## ✅ Tarefa 5.9 — Planeje o próximo degrau (upsell — mês 2)
-Quem compra o e-book e gosta é seu cliente ideal para algo maior. Escolha um (só para ter no radar):
-- Consultoria/mentoria individual (R$ 197–497)
-- Mini-curso em vídeo (R$ 97–197)
-- Grupo de acompanhamento mensal (R$ 29–49/mês)
+## ✅ Tarefa 5.9 — Desenhe sua sequência de ofertas ("Money Model")
+> 🧠 **Alex Hormozi (*$100M Money Models*, 2025):** o lucro não vem de uma oferta, vem da **sequência**. A meta é
+> que o que o cliente gera nos **primeiros 30 dias** pague o anúncio que o trouxe.
+
+| Etapa | O que é | No seu negócio |
+|---|---|---|
+| **Isca (atração)** | Oferta barata que faz o anúncio se pagar | O e-book (R$ 47) |
+| **Order bump** | Complemento no checkout | Planilha/checklist (R$ 17–27) |
+| **Upsell** | Oferta maior logo **após** a compra (página de obrigado) | Pack avançado ou aula em vídeo (R$ 67–97) |
+| **Downsell** | Se recusar o upsell, uma versão menor e mais barata | Só o pack de modelos (R$ 27–37) |
+| **Recorrência / próximo degrau** (mês 2) | Algo contínuo ou de alto valor | Grupo mensal (R$ 29–49/mês) ou consultoria/mentoria (R$ 197–497) |
+
+**Agora, no Dia 10:** defina só a **isca + order bump**. Anote ideias de upsell/downsell e do próximo degrau
+para ativar depois das primeiras vendas (Hormozi: *aperfeiçoe uma etapa antes de abrir a próxima*).
 
 ## ✅ Tarefa 5.10 — Monte a "pilha de valor" e preencha o modelo
 ```
