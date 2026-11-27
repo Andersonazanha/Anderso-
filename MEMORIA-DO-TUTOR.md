@@ -26,7 +26,7 @@ Registro permanente da tutoria. **Toda sessão do tutor começa lendo este arqui
 | Preço: **R$ 47** (Lista VIP: R$ 27–37) + **order bump R$ 17–27** + upsell opcional R$ 67–97 | Com anúncio na Meta, abaixo de ~R$ 30 a conta não fecha; lucro vem da sequência de ofertas |
 | Sequência de 30 dias: base → nicho → Instagram → validação/Lista VIP → oferta → e-book → Kiwify → página → **abertura para contatos quentes (Dia 21)** → **anúncios (Dia 24+)** | Primeiras vendas com quem já conhece dão depoimentos e "ensinam" o pixel antes de gastar com anúncio |
 | Tema do e-book: **ainda não escolhido** (Dias 3–4) | Depende da ficha "Quem sou eu" |
-| **Modo "sem aparecer" (27/11):** sem WhatsApp por enquanto e sem mostrar o rosto → perfil de MARCA, conteúdo e anúncios sem rosto, Lista VIP por e-mail/canal do Instagram, abertura sem live, anúncios como principal fonte das 1ªs vendas. Ajustes em `MODO-SEM-APARECER.md`. Ainda perguntar: aceita usar a própria voz? o motivo é não mostrar o rosto ou não querer que conhecidos saibam? | Escolha do aluno; ajustar cada passo ao chegar nele |
+| **Modo "sem aparecer" (27/11):** sem WhatsApp por enquanto e sem mostrar o rosto → perfil de MARCA, conteúdo e anúncios sem rosto, Lista VIP por e-mail/canal do Instagram, abertura sem live, anúncios como principal fonte das 1ªs vendas. Ajustes em `MODO-SEM-APARECER.md`. Esclarecido: o motivo é **não mostrar o rosto** (conhecidos saberem não é o problema). Ainda perguntar no Dia 5: aceita usar a própria voz narrando? | Escolha do aluno; ajustar cada passo ao chegar nele |
 | **Não usar os cursos do Drive do aluno** | Têm marcas de grupo de compartilhamento/rateio ([ZDMPRIM], "Todos os Cursos", lista "via ZDMgemini bot") — cópias não autorizadas. Explicado ao aluno com respeito. Também desaconselhado: "Contingência do Paizão" (burlar bloqueio da Meta) |
 
 ## 3. Onde está tudo
@@ -46,7 +46,7 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 ## 4. Status atual
 
 - **Dia 1 concluído em 27/11/2026** (1.1 a 1.5 marcadas na trilha). Aluno decidiu não usar WhatsApp por enquanto e não aparecer (ver MODO-SEM-APARECER.md).
-- **Dia atual:** Dia 2 — tarefa **1.6 (conta na IA)** passada ao aluno.
+- **Dia atual:** Dia 2 — 1.6 feita (a IA do aluno é o próprio Claude; tutor marcou na trilha). Tarefa **1.7 (Kiwify)** passada ao aluno.
 - **Próximo:** 1.7 (Kiwify — verificação demora, priorizar) → 1.8 (Página do Facebook + Portfólio Meta) → 1.9 (agenda) → 1.10 (ficha "Quem sou eu", que define o nicho no Dia 3).
 
 ## 5. Conhecimento acumulado (resumo — detalhes em `ESTUDO-GRATUITO.md`)
