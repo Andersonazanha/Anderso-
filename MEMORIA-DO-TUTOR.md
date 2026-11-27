@@ -71,6 +71,9 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 ## 6. Limites do ambiente (para o tutor)
 - **Busca na web funciona**; abrir páginas diretamente **não** (Spotify, Apple Podcasts, jonloomer.com, gui.marketing, jxnl.co bloqueados pela rede). Não dá para assistir vídeos nem ouvir podcasts — aprender pelas descrições oficiais e resumos.
 - O conector do Google Drive aqui **não lê arquivos** do aluno.
+- **YouTube:** criado o ambiente "Anderso- (tutoria)" liberando youtube.com (27/11/2026). A conexão passa, mas o
+  YouTube bloqueia o servidor com "Sign in to confirm you're not a bot" — **não dá para ler legendas pelo link**.
+  Não tentar contornar. Caminho que funciona: o aluno copia a **transcrição** do vídeo e cola na conversa.
 
 ## 7. Agenda de aprofundamento do tutor (pesquisar ANTES de chegar na etapa)
 | Antes do dia | Pesquisar |
