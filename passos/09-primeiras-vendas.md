@@ -59,11 +59,15 @@ Na sequência, mande um **áudio de 1 minuto** explicando por que você criou o 
 
 ## ✅ Tarefa 9.4 — Faça uma LIVE de 20–30 minutos (Dia 21)
 1. Instagram → **+** → **Ao vivo** → título: *"[Promessa] — tira-dúvidas"* → **Ao vivo**
-2. Roteiro:
-   - 0–2 min: espere as pessoas entrarem, cumprimente pelo nome
-   - 2–15 min: **entregue valor de verdade** — 3 dicas práticas + responda as dúvidas do grupo
-   - 15–20 min: sua história + depoimentos + **apresente a oferta** (pilha de valor, garantia, preço de fundador)
-   - 20–30 min: perguntas; repita o link (*"o link está na bio e no grupo"*)
+2. Roteiro (versão curta do "Perfect Webinar" de Russell Brunson, como usam as operações que mais vendem com live):
+   - **0–2 min:** cumprimente pelo nome quem entra + **prometa algo para o final** ("no fim vou mostrar uma condição que só vale durante esta live")
+   - **2–5 min:** sua **história de origem** — onde você estava, o que descobriu (é o momento que mais prende a atenção)
+   - **5–15 min: 3 "segredos"** — (1) **o caminho**: o método que leva ao resultado; (2) **a crença interna** que trava ("não tenho tempo", "não sou bom nisso") e por que é falsa; (3) **a crença externa** ("isso não funciona pra mim", "é complicado") e por que é falsa
+   - Depois de cada segredo, um **micro-compromisso**: *"Faz sentido? Digita SIM no chat"*
+   - **15–16 min:** **peça permissão**: *"Posso te mostrar como ter isso tudo pronto? Digita SIM se quiser ver"*
+   - **16–22 min:** a oferta — pilha de valor, bônus de quem entrar **durante a live**, garantia de 7 dias, preço de fundador
+   - **22–30 min:** responda dúvidas, **comemore em voz alta cada pessoa que comprou** (com permissão) e repita o link
+   - **Lembre:** a live é uma **peça de venda**, não uma aula completa. Conteúdo demais cansa e ninguém fica até a oferta.
 3. No fim: **Compartilhar** a live no perfil para quem perdeu
 
 > Com vergonha? Comece com um amigo assistindo. A 1ª live é a mais difícil — e é normal ter pouca gente. O importante é o **replay** e o hábito.

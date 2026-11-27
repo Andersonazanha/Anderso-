@@ -115,6 +115,45 @@ indicadores e corrigir um gargalo por vez** antes de adicionar etapas ou canais.
 Para operação pequena: uma oferta principal + funil simples → medir → melhorar anúncios/página → upsell → só então
 call ou webinar. Fonte: [episódio no YouTube](https://www.youtube.com/watch?v=Xz2_5dSN5EQ).
 
+#### Aprofundamento — descrição completa do episódio (PDF de 25 páginas enviado pelo aluno)
+Rodrigo Krueger (30 anos, ex-CMO de Thiago Finch, ex-time de Iman Gadzhi). Operação nos EUA: VSL de US$ 297 →
+webinar semanal → lançamento trimestral; ~6.000 alunos novos/mês; LTV ~US$ 3.000; 2 experts + 4 pessoas + IA.
+*(Números informados por ele no episódio — não verificados.)*
+
+**Princípios**
+- **Um funil até ficar verde**, depois empilhar. Simplicidade: "o que dá para remover?" (Musk); decidir fazendo a conta numa planilha e depois ouvindo a intuição.
+- **10.000 iterações, não horas** (Naval): conta a quantidade de repetições com feedback.
+- **Pirâmide de Lewis:** Brasil é muito emocional → lançamentos ao vivo, bônus e escassez funcionam bem aqui.
+- **Growth Engines (Ryan Deiss):** micro-KPIs do funil anotados **à mão** todo dia, com meta e cor; cada dia ataca o pior gargalo.
+
+**Anúncios**
+- O criativo faz a segmentação; público amplo. 80% do tempo dele vai para criar e testar anúncios.
+- **Formato antes da copy:** modelar vídeos orgânicos virais; fala ultra-simples ("homem das cavernas"); quadro branco; **gancho de B-roll** (5–10 s de cena do dia a dia com texto e música em alta — hook rate 60–70% na operação dele); vertical.
+- **Hook rate** = reproduções de 3 s ÷ impressões. Bom 40–50%; 30% razoável; abaixo disso, trocar o gancho.
+- Rotina semanal: segunda ideias + relatório 7 dias; terça roteiros (com a referência no topo); quarta gravação; quinta/sexta edição e subida. Numerar cada anúncio e registrar numa planilha.
+- **Perfil "burner"** que só segue concorrentes/referências para o algoritmo mostrar formatos em alta.
+- Erro comum: culpar a copy quando o gargalo é o anúncio (incongruente com a página, gancho fraco).
+- Tendências citadas (caras, para depois): clone de IA do expert (HeyGen + Seedance), animação estilo Pixar com IA, música com Suno. Lição dele: o formato escala, mas **a copy precisa respeitar os limites** (um anúncio desse estilo virou polêmica por copy agressiva).
+
+**Copy / VSL**
+- Pesquisa em 3 passos: concorrentes (transcrever e mapear mecanismos e lacunas) → público (comentários, Reddit, YouTube: situações ultra-específicas do dia a dia) → **fio de ouro** (linha lógica de A até B, sem desvio).
+- Estrutura: gancho → promessa → loop aberto → mecanismo do problema → mecanismo da solução → oferta. **A abertura é escrita por último.**
+- **1-2-3 (Todd Brown):** 1 afirmação, 2 provas, 3 benefícios/consequências. Pontos lógicos de Clayton Makepeace.
+- IA escreve uma seção por vez a partir de tópicos feitos à mão; o humano reescreve com a própria voz. Referências: RMBC (Stefan Georgi).
+- VSL vertical, com formato de conteúdo orgânico; não pode "parecer vídeo de venda".
+- **Quiz antes da VSL** (6 perguntas, não reprova ninguém): na operação dele, 90% terminam e a retenção da VSL subiu. Só vale com tráfego barato e quiz bem feito.
+
+**Ofertas e backend**
+- **Call funnel no Brasil:** upsell nº 1 = produto; upsell nº 2 = agendamento de conversa gratuita (todos caem na mesma página). Agendar em até 48–72 h; formulário começa simples (uma pergunta de investimento).
+- **Página de confirmação** após agendar: "vamos falar com você em X minutos", vídeo de próximos passos, mini-vídeos de dúvidas (1–2 min) e o melhor vídeo que derruba objeção.
+- **Seeding:** anunciar a conversa gratuita já na oferta de entrada.
+- **MIFGE (Brunson):** presente grátis incrível na página de obrigado (conversão típica 5–10% para a próxima oferta).
+- **Webinar (Perfect Webinar, Brunson):** promessa → história de origem → 3 segredos (o caminho; crenças internas; crenças externas) → oferta com bônus → fechamento. Micro-compromissos ("digite SIM"), **pedir permissão para mostrar a oferta**, comemorar compradores ao vivo (FOMO: 60% da receita fecha nessa janela), encerrar quando passar ~15 min sem venda ("regra da pipoca"). É **peça de venda, não aula**.
+- Hormozi: oferta em 5 passos (problemas → soluções → o que entregar → cortar o que custa caro e vale pouco); "Launch Bible" = um documento único com o plano do lançamento.
+
+**Como entrou no plano do aluno:** Passo 8 (fio de ouro, 1-2-3, abertura por último), Passo 9 (roteiro da live),
+Passo 10 (formatos, perfil de pesquisa, hook rate, painel diário, rotina semanal, mapa do Mês 2), Passo 7 (página de obrigado), `modelos/metricas.md` (painel 🚦 e registro de anúncios).
+
 ### Contas de e-book com anúncio (referências de 2026)
 - **Faça a conta antes de ligar o anúncio:** custo por clique ÷ taxa de conversão da página = custo por venda. Ex.: clique de R$ 1,50 com 3% de conversão → R$ 50 por venda. Por isso precisamos de **preço R$ 47 + order bump + upsell**.
 - **Avalie o teste em ~7 dias**, não em 1. Um guia de 2026 para autores sugere encerrar o criativo quando o **CTR fica abaixo de ~0,7%** sem sinais de melhora.

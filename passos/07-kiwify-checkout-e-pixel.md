@@ -48,7 +48,7 @@ Dentro do produto, nas abas de **Configurações** / **Pagamento**:
 1. Formas de pagamento: **Pix** ✅, **Cartão** ✅, **Boleto** ✅ (Pix é o mais usado em low ticket)
 2. Parcelamento: permita até 12x (em R$ 37, ajuda pouco, mas não atrapalha)
 3. **Garantia:** 7 dias
-4. **Página de obrigado / redirecionamento** (se houver): pode deixar a padrão por enquanto
+4. **Página de obrigado / redirecionamento** (se houver): pode deixar a padrão por enquanto. No Mês 2 ela ganha um **presente grátis surpresa** e o convite para o seu grupo de clientes (ver Passo 10)
 5. **Suporte:** coloque seu e-mail e/ou WhatsApp do negócio
 6. **Salvar**
 

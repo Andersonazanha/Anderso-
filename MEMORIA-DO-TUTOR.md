@@ -67,6 +67,11 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 **Rodrigo Krueger (Scaling Secrets #182, VTurb — resumo em PDF enviado pelo aluno em 27/11):** um funil por vez;
 "growth engines" = microindicadores diários e atacar o pior gargalo do dia (aplicado na tarefa 10.8); creative
 stacking = reaproveitar ganchos/formatos vencedores (tarefa 10.9); VSL, call funnel e webinars só com volume (Mês 2+).
+Descrição completa (PDF 25 p.) também lida: hook rate (3 s ÷ impressões; bom 40–50%), formatos orgânicos/"homem das
+cavernas"/quadro branco/gancho de B-roll, perfil de pesquisa, rotina semanal de anúncios, painel diário à mão com cores,
+fio de ouro + 1-2-3 (Todd Brown) + abertura escrita por último, Perfect Webinar (história de origem, 3 segredos,
+micro-compromissos, pedir permissão, regra da pipoca), call funnel no upsell nº 2, MIFGE na página de obrigado, quiz
+antes da VSL. Tudo detalhado em ESTUDO-GRATUITO.md e aplicado nos passos 7, 8, 9, 10 e em modelos/metricas.md.
 
 **Instagram 2026 (Mosseri):** sinais principais = tempo de exibição, curtidas por alcance, **envios por alcance** (pesa mais para não seguidores).
 
@@ -99,4 +104,4 @@ stacking = reaproveitar ganchos/formatos vencedores (tarefa 10.9); VSL, call fun
 
 ## 9. Diário das sessões
 - **Sessão 1 (26–27/11/2026):** pesquisa de mercado (taxas Hotmart/Kiwify, Instagram 2026, Meta Andromeda, legal BR, lançamentos, WhatsApp); criado o método em 10 passos; reestruturado como tutoria 10×10 + cronograma de 30 dias a pedido do aluno; criada a página interativa com progresso na nuvem; preço ajustado para R$ 47 (venda via Meta); avaliados os cursos do Drive (não usados — cópias não autorizadas); pesquisado o conteúdo gratuito atual de Ladeira, Hormozi, Sobral, Finch e Meta 2026 e aplicado nos passos 2, 5 e 10; aluno pediu para **não estudar** — tutor aprende e orienta. Aluno iniciou o Dia 1 (tarefa 1.1).
-- **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo do Scaling Secrets #182 → incorporado (gargalo do dia, creative stacking, um funil por vez). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.
+- **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo e depois a descrição completa (25 p.) do Scaling Secrets #182 → incorporados (gargalo do dia com painel à mão, hook rate, formatos e rotina de anúncios, fio de ouro/1-2-3 na copy, roteiro de live Perfect Webinar, mapa do Mês 2). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.

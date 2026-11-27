@@ -55,6 +55,17 @@ Estrutura de cada vídeo: **gancho (3s) → problema → solução (o guia) → 
 > ✅ **É mesmo um criativo diferente?** Cada um precisa mudar **pelo menos 2** destas coisas em relação aos outros:
 > ângulo · formato · pessoa · primeiros 3 segundos · visual. Escreva a mensagem de cada um em **uma frase**: se duas
 > frases dizem a mesma coisa, é o mesmo criativo para a Meta. ([detalhes](../ESTUDO-GRATUITO.md#meta-ads-em-2026--o-que-conta-como-criativo-diferente))
+
+**🎬 Formatos que mais escalam hoje** (Rodrigo Krueger, *Scaling Secrets #182*):
+- **O anúncio não pode parecer anúncio.** Copie o **formato** de um vídeo orgânico que viralizou no seu nicho e coloque a sua mensagem nele.
+- **Fala "homem das cavernas":** frases curtíssimas, palavras simples, como se explicasse para um amigo.
+- **Quadro branco** (ou folha de papel) explicando o problema → a solução → o guia.
+- **Gancho de B-roll:** 5–10 segundos de imagem do seu dia (entrando no carro, cozinhando, abrindo o notebook) com **texto na tela + música em alta**, e só depois a fala. É o gancho com melhor desempenho que ele mede.
+- Sempre **vertical** (9:16): 90% do público está no celular.
+- **Comece pelo formato, não pelo texto:** escolha a referência visual, cole o link dela no topo do roteiro e grave olhando para ela.
+- **Numere cada anúncio** (A01, A02…) e anote na planilha de métricas: assim você sabe o que está no ar, o que funciona e o que foi pausado.
+
+> 🔎 **Perfil de pesquisa:** crie uma conta secundária no Instagram/TikTok que segue **só** concorrentes e referências do seu nicho. Curta e salve apenas o que quer modelar. Em poucos dias o algoritmo passa a te mostrar os formatos que estão explodindo — é a sua "vitrine" de ideias de anúncio.
 Legendas na tela (CapCut → Legendas automáticas). Salve em `03 Conteúdo/Anúncios`.
 
 ✔️ **Pronto quando:** 4 a 6 vídeos prontos.
@@ -124,12 +135,15 @@ Para cada criativo (crie 4–6 anúncios **no mesmo conjunto**):
 3. Veja no nível de **Anúncios** (para comparar criativos)
 4. Anote todo dia na planilha de métricas
 
-**🔧 Método do "gargalo do dia"** (Rodrigo Krueger, *Scaling Secrets #182*): todo dia, olhe os números
-abaixo, ache **o pior elo** do funil e dedique o trabalho do dia **só a ele**. Um gargalo por vez.
+**🔧 Método do "gargalo do dia"** (Growth Engines, de Ryan Deiss, aplicado por Rodrigo Krueger): todo dia,
+**digite à mão** os números de ontem na planilha (digitar obriga você a olhar de verdade), pinte cada um de
+🟢 / 🟡 / 🔴 comparando com a meta, ache **o pior elo** e dedique o trabalho do dia **só a ele**. Um gargalo por vez.
+Na coluna do Gerenciador, acrescente **"Reproduções de vídeo de 3 segundos"** para calcular o hook rate.
 
 | Elo do funil | Como calcular | Se estiver ruim, o trabalho do dia é… |
 |---|---|---|
-| Anúncio → clique | CTR (link) | Novos ganchos / novo ângulo de criativo |
+| Impressão → assistiu 3s ("hook rate") | Reproduções de vídeo de 3 segundos ÷ impressões · **bom: 40–50% · ok: 30% · fraco: abaixo de 30%** | Trocar **só o gancho** (os 3 primeiros segundos) — barateia o anúncio mesmo que ele já venda |
+| Anúncio → clique | CTR (link) | Novos ganchos / novo ângulo de criativo · conferir se o anúncio **combina com a página** |
 | Clique → página carregada | Visualizações da página ÷ cliques no link | Deixar a página mais leve e rápida |
 | Página → checkout | Finalizações iniciadas ÷ visualizações da página | Título, promessa, prova, preço na página |
 | Checkout → compra | Compras ÷ finalizações iniciadas | Checkout mais limpo + recuperar Pix pelo WhatsApp |
@@ -159,6 +173,18 @@ Iniciam checkout, não compram               → CHECKOUT/Pix: recupere pelo Wha
 > mesmo vídeo trocando a cor são **1 conceito**. Com orçamento pequeno, **2 conceitos novos por semana** é o ritmo
 > certo. Quando um anúncio cansar (custo subindo, frequência alta), crie um **ângulo novo**, não uma variação.
 >
+**🗓️ Rotina semanal de anúncios** (versão "1 pessoa" da rotina do Rodrigo Krueger):
+| Dia | O que fazer | Tempo |
+|---|---|---|
+| Segunda | Abra o **perfil de pesquisa** e salve 3–5 formatos. Veja o relatório dos últimos 7 dias: qual anúncio vende com menor custo? | 20 min |
+| Terça | Escreva **2–3 roteiros** curtos, cada um com o link da referência no topo | 30 min |
+| Quarta | Grave tudo de uma vez (vertical, luz de janela) | 30 min |
+| Quinta | Edite no CapCut (legenda + gancho) e suba no conjunto que já está rodando | 40 min |
+
+> 💡 O erro mais comum, segundo ele: testar poucos anúncios, a venda não vir e culpar o texto da página — quando o
+> problema era o **anúncio**: desalinhado com a página ou com gancho fraco. Quem trabalha bem gasta a maior parte
+> do tempo **criando e testando anúncios**.
+
 > 🧠 **Creative stacking** (*Scaling Secrets #182*): quando achar um anúncio vencedor, **reaproveite o que já
 > provou que funciona**. Ex.: 3 ganchos vencedores × 2 "corpos" de vídeo = 6 anúncios a partir de poucos roteiros.
 > Para a Meta contar como criativo **novo**, combine isso com outra mudança (formato, pessoa ou visual).
@@ -201,7 +227,16 @@ O que mais funcionou: ____  |  O que não funcionou: ____
    mentoria — só quando o funil atual estiver previsível
 
 > 🧠 **Regra de ouro (Rodrigo Krueger, *Scaling Secrets #182*): um funil por vez.** Não persiga a moda da semana.
-> Deixe o funil atual previsível e medido; só depois adicione outra etapa ou canal.
+> Deixe o funil atual previsível e medido; só depois adicione outra etapa ou canal. Antes de adicionar qualquer
+> coisa, pergunte: **"o que eu posso remover?"** — e decida entre duas ideias fazendo a conta numa planilha primeiro.
+
+**🧭 Mapa do Mês 2 em diante (na ordem, só quando a etapa anterior estiver 🟢):**
+1. **Presente grátis na página de obrigado** (o "MIFGE" de Russell Brunson): um bônus surpresa + convite para o seu grupo de clientes. Aumenta a confiança para as próximas ofertas.
+2. **Upsell nº 1 (produto)** logo após a compra (ex.: pack avançado R$ 67–97).
+3. **Upsell nº 2 = convite para uma conversa gratuita** (o "call funnel" adaptado ao Brasil): todo comprador cai na mesma página, aceitando ou não o upsell nº 1, e pode agendar uma conversa com você. Na conversa, você oferece a **mentoria/consultoria**. Agendamento para no máximo **48–72 h** depois; formulário com **uma pergunta só** no começo ("quanto você pretende investir para resolver isso?" com faixas).
+4. **"Semeie" a conversa** já no e-book e no upsell (ex.: na última página: "quem comprou ganha uma conversa gratuita comigo") — isso aumenta o valor percebido.
+5. **Quiz antes da página** (5–6 perguntas que não reprovam ninguém, só deixam a pessoa mais consciente) — vira também ângulo de anúncio: "faça o teste grátis". Só vale se quase todo mundo terminar o quiz.
+6. **Aula ao vivo semanal para quem já comprou** (veja a estrutura da live no [Passo 9](09-primeiras-vendas.md)), com oferta da mentoria em grupo.
 
 🏆 **Parabéns!** Você saiu do zero, criou um produto, construiu um funil e aprendeu a vender. Agora é repetir o ciclo melhorando 1% por semana.
 

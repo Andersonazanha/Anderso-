@@ -26,6 +26,16 @@ Escreva a página de vendas do e-book, curta e direta, para ler no celular. Bloc
 9) Perguntas frequentes (5, respondendo às objeções) + último botão
 Frases curtas. Sem exageros. Sem promessas impossíveis.
 ```
+**Antes de pedir à IA, faça 2 coisas à mão** (método do Rodrigo Krueger / Michael Masterson):
+1. **Fio de ouro:** escreva em 5–7 tópicos a "linha reta" de raciocínio do ponto A (a dor) ao ponto B (comprar o guia):
+   *"isso acontece por causa daquilo → por isso as soluções comuns falham → o que resolve é X → o guia te dá X em Y dias"*.
+   Cada frase puxa a próxima. Tudo que sai dessa linha, corta.
+2. **1-2-3** (Todd Brown) para cada argumento: **1 afirmação + 2 provas + 3 benefícios** (ou consequências).
+   Ex.: *"Marmita estraga por causa da ordem de preparo"* + (prova: sua experiência; prova: dica de nutricionista) + (economiza dinheiro, tempo, não joga comida fora).
+
+Cole os tópicos no prompt acima. A IA escreve **uma seção por vez**; você **reescreve com a sua voz**, lendo em voz alta.
+**O título (a abertura) você escreve por último** — só dá para saber o que prometer depois de ter o resto pronto.
+
 Revise com a sua voz e salve em `04 Vendas` → `Copy da página`. (Versão completa de 13 blocos: [modelos/pagina-de-vendas.md](../modelos/pagina-de-vendas.md))
 
 ✔️ **Pronto quando:** a copy está revisada e você leu em voz alta.
