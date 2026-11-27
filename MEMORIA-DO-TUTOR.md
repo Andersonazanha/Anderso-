@@ -13,6 +13,10 @@ Registro permanente da tutoria. **Toda sessão do tutor começa lendo este arqui
   → Passar **uma tarefa por vez**, curta, com onde tocar/clicar. Nada de listas de vídeos, livros ou podcasts para ele.
 - **Dispositivo:** usa **iPad com Safari** (e celular). Instruções sempre adaptadas para iPad/iPhone.
 - **Linguagem:** português do Brasil, simples, direto, tom de tutor encorajador.
+- **Ficha "Quem sou eu" (27/11):** trabalha no **departamento financeiro de uma construtora** (contas a pagar,
+  apoio no contas a receber, fluxo de caixa). Acha que não tem habilidade especial (subestima a experiência financeira).
+  Objetivo pessoal: resolver a vida financeira. Luta contra **procrastinação**. Já criou um Instagram com vídeos sobre
+  prosperidade/foco. Ideia dele: e-book sobre parar de procrastinar e prosperar / renda extra.
 - **Ainda não sabemos:** o que ele sabe fazer / experiência (sai da ficha "Quem sou eu", Dia 2), se tem chip separado
   para o WhatsApp, quanto pode investir em anúncios (plano: R$ 20–30/dia a partir do Dia 24).
 - **Privacidade:** não registrar e-mail, telefone ou dados pessoais do aluno aqui.
@@ -25,7 +29,7 @@ Registro permanente da tutoria. **Toda sessão do tutor começa lendo este arqui
 | Plataforma: **Kiwify** (reconfirmada em 27/11 após o aluno perguntar sobre Hotmart, Cakto e Ticto) | Simples para iniciante, guias do programa escritos para ela, sem mensalidade (~8,99% + R$ 2,49 por venda). Comparativo 2026 (conferir nas páginas oficiais): Cakto Pix 0% + R$ 2,49 / cartão 4,99% + R$ 2,49 (mais barata, mais nova); Ticto ~6,99% + R$ 2,49; Hotmart 9,9% + R$ 1 a 2,49 (maior, afiliados). **Rever com o aluno ao passar de ~50 vendas/mês: a Cakto pode economizar ~R$ 3–4 por venda no Pix.** |
 | Preço: **R$ 47** (Lista VIP: R$ 27–37) + **order bump R$ 17–27** + upsell opcional R$ 67–97 | Com anúncio na Meta, abaixo de ~R$ 30 a conta não fecha; lucro vem da sequência de ofertas |
 | Sequência de 30 dias: base → nicho → Instagram → validação/Lista VIP → oferta → e-book → Kiwify → página → **abertura para contatos quentes (Dia 21)** → **anúncios (Dia 24+)** | Primeiras vendas com quem já conhece dão depoimentos e "ensinam" o pixel antes de gastar com anúncio |
-| Tema do e-book: **ainda não escolhido** (Dias 3–4) | Depende da ficha "Quem sou eu" |
+| Tema: **em decisão (27/11).** Recomendação do tutor: ⭐ **planilha + mini-guia de controle financeiro da obra/reforma** (para quem constrói ou reforma a casa; credibilidade do trabalho em construtora; pouca concorrência específica na Hotmart; produto utilitário = vídeo de demonstração sem rosto; promessa pequena). Plano B: planilha de fluxo de caixa para MEI. Plano C (ideia do aluno): anti-procrastinação/prosperidade — mercado saturado e vago, promessa grande, risco com anúncios de "renda extra"; melhor como linha de conteúdo ou produto futuro, refinado. | Validar no Dia 3 com Biblioteca de Anúncios/Hotmart/Trends |
 | **Modo "sem aparecer" (27/11):** sem WhatsApp por enquanto e sem mostrar o rosto → perfil de MARCA, conteúdo e anúncios sem rosto, Lista VIP por e-mail/canal do Instagram, abertura sem live, anúncios como principal fonte das 1ªs vendas. Ajustes em `MODO-SEM-APARECER.md`. Esclarecido: o motivo é **não mostrar o rosto** (conhecidos saberem não é o problema). Ainda perguntar no Dia 5: aceita usar a própria voz narrando? | Escolha do aluno; ajustar cada passo ao chegar nele |
 | **Não usar os cursos do Drive do aluno** | Têm marcas de grupo de compartilhamento/rateio ([ZDMPRIM], "Todos os Cursos", lista "via ZDMgemini bot") — cópias não autorizadas. Explicado ao aluno com respeito. Também desaconselhado: "Contingência do Paizão" (burlar bloqueio da Meta) |
 
@@ -46,7 +50,7 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 ## 4. Status atual
 
 - **Dia 1 concluído em 27/11/2026** (1.1 a 1.5 marcadas na trilha). Aluno decidiu não usar WhatsApp por enquanto e não aparecer (ver MODO-SEM-APARECER.md).
-- **Dia atual:** Dia 2 — 1.6 feita (a IA do aluno é o próprio Claude; tutor marcou na trilha). 1.7 (Kiwify) feita em 27/11 (cadastro enviado; aguardar aprovação). **1.8 adiada para o Dia 5** (Página do Facebook e Portfólio já com o nome da MARCA, junto com o perfil de marca do Instagram — modo sem rosto). Tarefas 1.9 e 1.10 passadas ao aluno; a ficha "Quem sou eu" pode ser respondida direto na conversa.
+- **Dia atual:** Dia 2 — 1.6 feita (a IA do aluno é o próprio Claude; tutor marcou na trilha). 1.7 (Kiwify) feita em 27/11 (cadastro enviado; aguardar aprovação). **1.8 adiada para o Dia 5** (Página do Facebook e Portfólio já com o nome da MARCA, junto com o perfil de marca do Instagram — modo sem rosto). 1.9 e 1.10 feitas em 27/11 → **Dia 2 concluído** (1.8 adiada para o Dia 5). Próximo: Dia 3 (validar o tema recomendado).
 - **Próximo:** 1.7 (Kiwify — verificação demora, priorizar) → 1.8 (Página do Facebook + Portfólio Meta) → 1.9 (agenda) → 1.10 (ficha "Quem sou eu", que define o nicho no Dia 3).
 
 ## 5. Conhecimento acumulado (resumo — detalhes em `ESTUDO-GRATUITO.md`)
@@ -115,3 +119,4 @@ pede 6–10 criativos (antes 4–6), também na trilha e no cronograma.
 - **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo e depois a descrição completa (25 p.) do Scaling Secrets #182 → incorporados (gargalo do dia com painel à mão, hook rate, formatos e rotina de anúncios, fio de ouro/1-2-3 na copy, roteiro de live Perfect Webinar, mapa do Mês 2). Depois enviou a transcrição da palestra do Ladeira no FIRE 2026 → incorporada (ângulos, 10 criativos, tipo de página, formatos simples). Página da trilha agora está compartilhada como "qualquer pessoa com o link" (mudança feita pelo aluno). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.
 - **27/11/2026:** aluno concluiu o Dia 1 (Gmail, pastas no Drive, apps, WhatsApp Business, Canva). Iniciando o Dia 2.
 - **27/11/2026:** aluno avisou que não vai usar WhatsApp e não quer aparecer → criado MODO-SEM-APARECER.md e plano adaptado.
+- **27/11/2026:** aluno respondeu a ficha (financeiro de construtora; quer tema procrastinação/prosperidade). Tutor pesquisou e recomendou planilha de controle financeiro de obra/reforma; procrastinação como plano C.
