@@ -22,7 +22,7 @@ Registro permanente da tutoria. **Toda sessão do tutor começa lendo este arqui
 | Decisão | Motivo |
 |---|---|
 | Produto: **e-book/guia prático low ticket** criado com IA + Canva | Pronto em ~4 dias, custo zero, compra fácil, funciona com anúncio (modelo perpétuo) |
-| Plataforma: **Kiwify** | Simples para iniciante, sem mensalidade (~8,99% + R$ 2,49 por venda — conferir) |
+| Plataforma: **Kiwify** (reconfirmada em 27/11 após o aluno perguntar sobre Hotmart, Cakto e Ticto) | Simples para iniciante, guias do programa escritos para ela, sem mensalidade (~8,99% + R$ 2,49 por venda). Comparativo 2026 (conferir nas páginas oficiais): Cakto Pix 0% + R$ 2,49 / cartão 4,99% + R$ 2,49 (mais barata, mais nova); Ticto ~6,99% + R$ 2,49; Hotmart 9,9% + R$ 1 a 2,49 (maior, afiliados). **Rever com o aluno ao passar de ~50 vendas/mês: a Cakto pode economizar ~R$ 3–4 por venda no Pix.** |
 | Preço: **R$ 47** (Lista VIP: R$ 27–37) + **order bump R$ 17–27** + upsell opcional R$ 67–97 | Com anúncio na Meta, abaixo de ~R$ 30 a conta não fecha; lucro vem da sequência de ofertas |
 | Sequência de 30 dias: base → nicho → Instagram → validação/Lista VIP → oferta → e-book → Kiwify → página → **abertura para contatos quentes (Dia 21)** → **anúncios (Dia 24+)** | Primeiras vendas com quem já conhece dão depoimentos e "ensinam" o pixel antes de gastar com anúncio |
 | Tema do e-book: **ainda não escolhido** (Dias 3–4) | Depende da ficha "Quem sou eu" |
