@@ -46,7 +46,7 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 ## 4. Status atual
 
 - **Dia 1 concluído em 27/11/2026** (1.1 a 1.5 marcadas na trilha). Aluno decidiu não usar WhatsApp por enquanto e não aparecer (ver MODO-SEM-APARECER.md).
-- **Dia atual:** Dia 2 — 1.6 feita (a IA do aluno é o próprio Claude; tutor marcou na trilha). Tarefa **1.7 (Kiwify)** passada ao aluno.
+- **Dia atual:** Dia 2 — 1.6 feita (a IA do aluno é o próprio Claude; tutor marcou na trilha). 1.7 (Kiwify) feita em 27/11 (cadastro enviado; aguardar aprovação). **1.8 adiada para o Dia 5** (Página do Facebook e Portfólio já com o nome da MARCA, junto com o perfil de marca do Instagram — modo sem rosto). Tarefas 1.9 e 1.10 passadas ao aluno; a ficha "Quem sou eu" pode ser respondida direto na conversa.
 - **Próximo:** 1.7 (Kiwify — verificação demora, priorizar) → 1.8 (Página do Facebook + Portfólio Meta) → 1.9 (agenda) → 1.10 (ficha "Quem sou eu", que define o nicho no Dia 3).
 
 ## 5. Conhecimento acumulado (resumo — detalhes em `ESTUDO-GRATUITO.md`)
