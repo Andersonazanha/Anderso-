@@ -64,6 +64,10 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 - Conta: custo por venda ≈ CPC ÷ conversão da página. Regras do programa: pausar após 1,5× CPA máximo sem venda; escalar +20% a cada 2–3 dias com CPA abaixo do máximo.
 - Cuidado com políticas: nada de promessa de emagrecimento/ganho garantido.
 
+**Rodrigo Krueger (Scaling Secrets #182, VTurb — resumo em PDF enviado pelo aluno em 27/11):** um funil por vez;
+"growth engines" = microindicadores diários e atacar o pior gargalo do dia (aplicado na tarefa 10.8); creative
+stacking = reaproveitar ganchos/formatos vencedores (tarefa 10.9); VSL, call funnel e webinars só com volume (Mês 2+).
+
 **Instagram 2026 (Mosseri):** sinais principais = tempo de exibição, curtidas por alcance, **envios por alcance** (pesa mais para não seguidores).
 
 **Brasil / legal:** CDC art. 49 (7 dias de arrependimento); Decreto 7.962/2013 (identificação do vendedor na página); LGPD (consentimento para marketing no WhatsApp/e-mail); MEI nem sempre cobre infoproduto — orientar contador quando houver faturamento recorrente.
@@ -95,3 +99,4 @@ Ids das tarefas na página: `1.1`…`10.10`; extras `x11`, `x22a`, `x22b`, `x26`
 
 ## 9. Diário das sessões
 - **Sessão 1 (26–27/11/2026):** pesquisa de mercado (taxas Hotmart/Kiwify, Instagram 2026, Meta Andromeda, legal BR, lançamentos, WhatsApp); criado o método em 10 passos; reestruturado como tutoria 10×10 + cronograma de 30 dias a pedido do aluno; criada a página interativa com progresso na nuvem; preço ajustado para R$ 47 (venda via Meta); avaliados os cursos do Drive (não usados — cópias não autorizadas); pesquisado o conteúdo gratuito atual de Ladeira, Hormozi, Sobral, Finch e Meta 2026 e aplicado nos passos 2, 5 e 10; aluno pediu para **não estudar** — tutor aprende e orienta. Aluno iniciou o Dia 1 (tarefa 1.1).
+- **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo do Scaling Secrets #182 → incorporado (gargalo do dia, creative stacking, um funil por vez). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.

@@ -100,6 +100,21 @@ A própria Meta diz que anúncios que **parecem iguais** são tratados como vari
 **Teste da frase única:** escreva a mensagem de cada anúncio em **uma frase**. Se duas frases dizem a mesma coisa, é o **mesmo conceito**.
 Trocar só a legenda, a cor do fundo ou uma palavra do título = **variação**, não conceito novo.
 
+### Rodrigo Krueger — *Scaling Secrets #182* (VTurb) · resumo enviado pelo aluno
+Operação nos EUA com dois experts, equipe de 4 pessoas e muita IA. Tese: **dominar um funil, acompanhar os
+indicadores e corrigir um gargalo por vez** antes de adicionar etapas ou canais.
+| Pilar | O que é | Como entra no seu plano |
+|---|---|---|
+| Funil VSL | Vídeo de vendas para o produto de entrada, com escada de valor depois | Teste opcional no Mês 2 (VSL curta na página) |
+| Call funnel | Levar compradores qualificados para uma chamada e oferecer algo maior | Mês 2+: venda da mentoria/consultoria |
+| IA | Agentes para pesquisa de concorrentes, público, transcrição, copy, anúncios, automações | Já usamos IA no e-book, copy e criativos |
+| Creative stacking | Reaproveitar ganchos e formatos vencedores para gerar variações | **Passo 10 (tarefa 10.9)** |
+| Webinars | Aulas ao vivo para a base de compradores, com oferta de backend | Mais tarde, com volume |
+| Growth engines | Microindicadores diários do funil → atacar o pior gargalo do dia | **Passo 10 (tarefa 10.8): método do "gargalo do dia"** |
+
+Para operação pequena: uma oferta principal + funil simples → medir → melhorar anúncios/página → upsell → só então
+call ou webinar. Fonte: [episódio no YouTube](https://www.youtube.com/watch?v=Xz2_5dSN5EQ).
+
 ### Contas de e-book com anúncio (referências de 2026)
 - **Faça a conta antes de ligar o anúncio:** custo por clique ÷ taxa de conversão da página = custo por venda. Ex.: clique de R$ 1,50 com 3% de conversão → R$ 50 por venda. Por isso precisamos de **preço R$ 47 + order bump + upsell**.
 - **Avalie o teste em ~7 dias**, não em 1. Um guia de 2026 para autores sugere encerrar o criativo quando o **CTR fica abaixo de ~0,7%** sem sinais de melhora.

@@ -124,6 +124,17 @@ Para cada criativo (crie 4–6 anúncios **no mesmo conjunto**):
 3. Veja no nível de **Anúncios** (para comparar criativos)
 4. Anote todo dia na planilha de métricas
 
+**🔧 Método do "gargalo do dia"** (Rodrigo Krueger, *Scaling Secrets #182*): todo dia, olhe os números
+abaixo, ache **o pior elo** do funil e dedique o trabalho do dia **só a ele**. Um gargalo por vez.
+
+| Elo do funil | Como calcular | Se estiver ruim, o trabalho do dia é… |
+|---|---|---|
+| Anúncio → clique | CTR (link) | Novos ganchos / novo ângulo de criativo |
+| Clique → página carregada | Visualizações da página ÷ cliques no link | Deixar a página mais leve e rápida |
+| Página → checkout | Finalizações iniciadas ÷ visualizações da página | Título, promessa, prova, preço na página |
+| Checkout → compra | Compras ÷ finalizações iniciadas | Checkout mais limpo + recuperar Pix pelo WhatsApp |
+| Compra → order bump | Compras do bump ÷ compras | Chamada do bump mais clara / bump mais útil |
+
 **Diagnóstico rápido:**
 ```
 CTR baixo (< ~1%)                          → o GANCHO/criativo não chama atenção
@@ -147,6 +158,10 @@ Iniciam checkout, não compram               → CHECKOUT/Pix: recupere pelo Wha
 > 🧠 **O que mudou em 2026 (Andromeda):** conte seus criativos em **conceitos**, não em arquivos — 5 versões do
 > mesmo vídeo trocando a cor são **1 conceito**. Com orçamento pequeno, **2 conceitos novos por semana** é o ritmo
 > certo. Quando um anúncio cansar (custo subindo, frequência alta), crie um **ângulo novo**, não uma variação.
+>
+> 🧠 **Creative stacking** (*Scaling Secrets #182*): quando achar um anúncio vencedor, **reaproveite o que já
+> provou que funciona**. Ex.: 3 ganchos vencedores × 2 "corpos" de vídeo = 6 anúncios a partir de poucos roteiros.
+> Para a Meta contar como criativo **novo**, combine isso com outra mudança (formato, pessoa ou visual).
 >
 > 🧠 **Thiago Finch:** *troque a página antes de trocar o produto.* Anúncio com bom CTR que não vende? Teste
 > **outro título e outro ângulo na página de vendas** antes de concluir que o e-book não serve.
@@ -181,6 +196,12 @@ O que mais funcionou: ____  |  O que não funcionou: ____
 4. **E-mail/WhatsApp:** nutrir a lista com conteúdo e ofertas
 5. **Formalização:** com faturamento recorrente, **consultar um contador** sobre CNPJ (MEI só vale se a atividade for permitida; muitas vezes o caminho é ME no Simples Nacional) e emissão de notas
 6. **Novo produto:** o que os clientes mais pediram vira o próximo produto
+7. **Testar uma VSL curta** (vídeo de vendas de 2–5 min no topo da página) se o gargalo for "página → checkout"
+8. **Mais tarde, com volume:** aulas ao vivo (webinar) para a base de compradores e funil de chamada (call) para a
+   mentoria — só quando o funil atual estiver previsível
+
+> 🧠 **Regra de ouro (Rodrigo Krueger, *Scaling Secrets #182*): um funil por vez.** Não persiga a moda da semana.
+> Deixe o funil atual previsível e medido; só depois adicione outra etapa ou canal.
 
 🏆 **Parabéns!** Você saiu do zero, criou um produto, construiu um funil e aprendeu a vender. Agora é repetir o ciclo melhorando 1% por semana.
 
