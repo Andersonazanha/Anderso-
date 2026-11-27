@@ -224,7 +224,7 @@ comentários/directs/WhatsApp · comentar em 5 perfis do nicho. *(detalhes na [t
 **Passo 10 · Anúncios** — [abrir passo](passos/10-anuncios-e-escala.md) · ⏱️ 2h + 🔁
 - [ ] 10.1 Conta de anúncios + pagamento + pixel conectado
 - [ ] 10.2 CPA máximo
-- [ ] 10.3 4–6 criativos com ângulos diferentes
+- [ ] 10.3 6 a 10 criativos com ângulos diferentes
 📩 **Envie:** CPA máximo + ângulos.
 
 ### Dia 25

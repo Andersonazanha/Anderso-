@@ -20,6 +20,10 @@ Lista VIP / WhatsApp  ─┘                                   + Order bump R$ 1
 ```
 
 - **E-book (produto de entrada):** resolve **um problema específico** de forma rápida.
+  > 🧠 **Ladeira (FIRE 2026):** o produto low ticket pode ser **e-book, planilha, mapa mental, checklist ou pack de
+  > modelos** — e **o mais simples costuma vender mais**. Uma aluna dele vende milhões transformando apostila de
+  > concurso em **mapa mental**; outra trocou uma planilha por um aplicativo "mais completo", parou de vender e só
+  > voltou a vender quando voltou para a planilha. Na escolha do formato (Dia 4), prefira o mais simples que entrega o resultado.
 - **Order bump:** um complemento barato oferecido no checkout ("adicione a planilha por R$ 19").
 - **Próximo degrau:** quem comprou e gostou compra algo maior depois.
 

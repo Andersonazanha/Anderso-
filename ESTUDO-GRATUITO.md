@@ -154,6 +154,33 @@ webinar semanal → lançamento trimestral; ~6.000 alunos novos/mês; LTV ~US$ 3
 **Como entrou no plano do aluno:** Passo 8 (fio de ouro, 1-2-3, abertura por último), Passo 9 (roteiro da live),
 Passo 10 (formatos, perfil de pesquisa, hook rate, painel diário, rotina semanal, mapa do Mês 2), Passo 7 (página de obrigado), `modelos/metricas.md` (painel 🚦 e registro de anúncios).
 
+### Leandro Ladeira — palestra no Hotmart FIRE 2026 ("O funil low ticket mais fácil") · transcrição enviada pelo aluno
+- **Mercado indo para os extremos:** cursos de R$ 300–2.000 ainda são a maior parte, mas estão caindo; crescem o
+  **low ticket** e o **high ticket**. "Antes era a era da intensidade; agora é a era da **velocidade**" — criar e
+  colocar à venda rápido (a aluna Lu Santana "cria um produto e vende no mesmo dia").
+- Hotmart entregou 1.722 placas de R$ 1 milhão no ano anterior (~3 por dia); tempo médio até R$ 1 milhão: menos de
+  um ano. *(dados citados na palestra)*
+- **Simplicidade vence:** "ser muito inteligente é desvantagem" — o funil dele, há 7 anos, é **1 criativo + 1 página
+  de vendas + produto low ticket**. "Não ensino o melhor, ensino o mais fácil, o que você consegue fazer."
+- **Produtos low ticket que vendem:** planilha, mapa mental (apostila de concurso → mapa mental), e-book. Planilha
+  vendeu mais que o app "melhor".
+- **Criativo é ângulo.** Lista: objeto estranho, jogo dos 7 erros, fofinho, diálogo mental negativo, surreal, UGC,
+  jeito errado × jeito certo, notícia, checklist de comparação, meme (inveja), exagero, quadrinhos, autoridade,
+  legenda que chama o público ("você, médico de plantão…"), quebra de padrão visual, encenação/humor (não precisa
+  atuar bem). Criativos feitos com IA **convertem** (ele mostrou).
+- **O começo do criativo decide:** nunca "Oi, gente". Exemplo do doce de leite: abrir com uma imagem que quebra o
+  padrão levou o criativo de R$ 2 mil para R$ 20 mil. Exemplo do abdômen: a explicação técnica não vendia; dizer
+  claramente **para quem é** ("pra quem tem barriguinha saliente") vendeu (R$ 2 mil investidos → 75 vendas → R$ 37 mil).
+- **Páginas:** produto utilitário → vídeo curto de demonstração (aluno foi de R$ 25 mil para R$ 80 mil/dia ao
+  adicionar um vídeo de 2 min); produto educativo → **dor espelhada** (fazer a pessoa se imaginar falhando).
+- **Meta:** configurar a conta, instalar o pixel integrado à plataforma ("copia e cola"), subir a campanha mais
+  simples, com **10 criativos**. Seguidores não são necessários (caso com 817 seguidores e R$ 100 mil); precisa de anúncio.
+- **Eventos pagos** (ingresso R$ 97) como lançamento: "a pessoa paga para virar lead qualificado". Para depois.
+- **High ticket sem página nem anúncio:** só WhatsApp — convidar pessoas para uma aula e conversar (o trecho da
+  transcrição termina aqui). Bom caminho para a mentoria no Mês 2.
+- **Como entrou no plano:** Passo 2 (formatos simples), Passo 8 (tipo de página: dor espelhada + vídeo folheando o
+  guia), Passo 10 (até 10 criativos, biblioteca de ângulos, regra "nunca Oi, gente").
+
 ### Contas de e-book com anúncio (referências de 2026)
 - **Faça a conta antes de ligar o anúncio:** custo por clique ÷ taxa de conversão da página = custo por venda. Ex.: clique de R$ 1,50 com 3% de conversão → R$ 50 por venda. Por isso precisamos de **preço R$ 47 + order bump + upsell**.
 - **Avalie o teste em ~7 dias**, não em 1. Um guia de 2026 para autores sugere encerrar o criativo quando o **CTR fica abaixo de ~0,7%** sem sinais de melhora.

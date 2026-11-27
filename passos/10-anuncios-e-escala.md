@@ -37,9 +37,13 @@ Anote na [planilha de métricas](../modelos/metricas.md) (copie para Google Plan
 
 ✔️ **Pronto quando:** você sabe seu CPA máximo.
 
-## ✅ Tarefa 10.3 — Crie 4 a 6 criativos com ÂNGULOS diferentes (Dia 24)
+## ✅ Tarefa 10.3 — Crie até 10 criativos com ÂNGULOS diferentes (Dia 24)
+> 🧠 **Leandro Ladeira (Hotmart FIRE 2026):** *"Criativo é ângulo."* O funil dele, que vende há 7 anos, é
+> **um criativo + uma página de vendas + o produto** — e a recomendação é subir **10 criativos**. Comece com no
+> mínimo 6; com IA (Canva, ChatGPT/Claude) dá para chegar a 10 sem gravar todos.
+
 **Comece pelo que já funcionou:** os Reels com mais **envios** e **tempo de exibição** (Insights) são seus primeiros anúncios.
-Complete com vídeos novos (15–40s, vertical 9:16), cada um com **um ângulo**:
+Complete com vídeos ou imagens novas (15–40s, vertical 9:16), cada um com **um ângulo**:
 
 | # | Ângulo | Gancho exemplo |
 |---|---|---|
@@ -49,6 +53,30 @@ Complete com vídeos novos (15–40s, vertical 9:16), cada um com **um ângulo**
 | 4 | **Erro comum / inimigo** | "O erro que faz sua marmita estragar no 3º dia." |
 | 5 | **Demonstração** | Mostrando o guia por dentro, folheando no celular |
 | 6 | **Objeção** | "Não tem tempo? Esse guia é para você." |
+
+**📚 Biblioteca de ângulos do Ladeira** (escolha os que combinam com seu tema para completar os 10):
+| Ângulo | Como fica no anúncio |
+|---|---|
+| **Quebra de padrão visual** | Começa com uma imagem inesperada ligada ao tema (o "doce de leite": um criativo que faturava R$ 2 mil passou a R$ 20 mil só por abrir com um doce de leite na tela) |
+| **Objeto estranho** | Um objeto curioso em destaque que faz a pessoa parar |
+| **Jogo dos 7 erros** | Duas imagens lado a lado: "ache o erro na sua marmita" |
+| **Jeito errado × jeito certo** | Tela dividida: ❌ como a maioria faz · ✅ como o guia ensina |
+| **Diálogo mental negativo** | O pensamento da pessoa na tela: "de novo vou jogar comida fora…" |
+| **Chamar pelo nome** (legenda) | "Você que trabalha fora e chega em casa sem tempo de cozinhar…" |
+| **Notícia** | Formato de manchete/jornal |
+| **Checklist de comparação** | Tabela "sem o guia × com o guia" |
+| **Meme / inveja** | Meme do momento adaptado ao tema |
+| **Exagero / surreal** | Uma cena absurda e engraçada (pode ser feita com IA) |
+| **Quadrinhos** | História em 3–4 quadros |
+| **Fofinho** | Criança, bicho, algo que gera "own" (quando combina com o tema) |
+| **Encenação / humor** | Você interpretando uma situação do dia a dia (não precisa atuar bem!) |
+| **UGC** | Gravado como cliente comum, celular na mão, sem produção |
+| **Autoridade** | "O guia mais vendido de…" (só se for verdade) |
+
+**🚫 A regra de ouro do começo do vídeo (Ladeira):** **nunca comece com "Oi, gente".** A diferença entre dar certo
+e dar errado, na maioria das vezes, está **no primeiro segundo**. Abra com a quebra de padrão ou com a frase que diz
+**para quem é** — em linguagem simples, não técnica (ex.: *"pra quem tem barriguinha saliente igual a sua"* vendeu;
+a explicação técnica não vendia).
 
 Estrutura de cada vídeo: **gancho (3s) → problema → solução (o guia) → prova → "clique em Saiba mais"**.
 
@@ -68,7 +96,7 @@ Estrutura de cada vídeo: **gancho (3s) → problema → solução (o guia) → 
 > 🔎 **Perfil de pesquisa:** crie uma conta secundária no Instagram/TikTok que segue **só** concorrentes e referências do seu nicho. Curta e salve apenas o que quer modelar. Em poucos dias o algoritmo passa a te mostrar os formatos que estão explodindo — é a sua "vitrine" de ideias de anúncio.
 Legendas na tela (CapCut → Legendas automáticas). Salve em `03 Conteúdo/Anúncios`.
 
-✔️ **Pronto quando:** 4 a 6 vídeos prontos.
+✔️ **Pronto quando:** 6 a 10 criativos prontos, cada um com um ângulo diferente.
 
 ---
 
@@ -99,7 +127,7 @@ Legendas na tela (CapCut → Legendas automáticas). Salve em `03 Conteúdo/Anú
 ✔️ **Pronto quando:** conjunto configurado.
 
 ## ✅ Tarefa 10.6 — Crie os anúncios e publique
-Para cada criativo (crie 4–6 anúncios **no mesmo conjunto**):
+Para cada criativo (crie de 6 a 10 anúncios **no mesmo conjunto**):
 1. **Identidade:** sua **Página do Facebook** + sua **conta do Instagram**
 2. **Formato:** para um Reel que já está no perfil → **Usar publicação existente** → **Selecionar publicação** (mantém curtidas e comentários = prova social). Para vídeo novo → **Criar anúncio** → **Vídeo/imagem única** → **Adicionar mídia**
 3. **Texto principal** (para vídeo novo):

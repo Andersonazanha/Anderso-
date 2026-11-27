@@ -47,6 +47,15 @@ Revise com a sua voz e salve em `04 Vendas` → `Copy da página`. (Versão comp
 
 ---
 
+> 🧠 **Qual tipo de página? (Ladeira, FIRE 2026)**
+> | Seu produto é… | Tipo de página | O que não pode faltar |
+> |---|---|---|
+> | **Utilitário** (planilha, modelos, checklist, app) | **Demonstração** | Título simples + **vídeo curto (até 2 min) mostrando o produto funcionando** + alguns pontos de curiosidade + preço baixo à vista. Um aluno dele foi de R$ 25 mil para R$ 80 mil por dia só ao colocar o vídeo de demonstração. |
+> | **Educativo** (e-book que ensina algo) | **Dor espelhada** | Um texto que faz a pessoa **se imaginar tentando e não conseguindo** — ela precisa sentir a dor antes do botão. Ex. que não vendeu: "Faça seu filho obedecer de primeira — R$ 39" (promessa sem explicar, soa impossível). Aqui o botão **não precisa** estar logo no topo. |
+>
+> **Seu e-book é educativo → use a dor espelhada.** E vale incluir um vídeo curto **folheando o guia no celular**
+> (a parte "demonstração"), porque mostra que o produto existe e é bonito.
+
 ## ✅ Tarefa 8.2 — Monte a página no Canva Sites
 1. **canva.com** → **Criar um design** → busque **"Site"** → escolha um modelo de **página de vendas / landing page**
 2. Apague o que não precisar; cole os blocos da copy, um por seção (adicione páginas/seções com **+ Adicionar página**)

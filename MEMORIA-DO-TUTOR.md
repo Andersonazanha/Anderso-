@@ -73,6 +73,13 @@ fio de ouro + 1-2-3 (Todd Brown) + abertura escrita por último, Perfect Webinar
 micro-compromissos, pedir permissão, regra da pipoca), call funnel no upsell nº 2, MIFGE na página de obrigado, quiz
 antes da VSL. Tudo detalhado em ESTUDO-GRATUITO.md e aplicado nos passos 7, 8, 9, 10 e em modelos/metricas.md.
 
+**Ladeira — palestra FIRE 2026 (transcrição enviada pelo aluno em 27/11):** mercado nos extremos (low e high
+ticket crescem); era da velocidade; funil simples = 1 criativo + 1 página + produto; planilha/mapa mental/e-book,
+o mais simples vende mais; criativo é ângulo (biblioteca de ~15 ângulos no Passo 10); nunca começar com "Oi, gente" —
+o 1º segundo decide; página utilitária = vídeo de demonstração, educativa = dor espelhada; subir 10 criativos;
+seguidores não são necessários; high ticket só com WhatsApp + convite para aula (Mês 2). Plano ajustado: 10.3 agora
+pede 6–10 criativos (antes 4–6), também na trilha e no cronograma.
+
 **Instagram 2026 (Mosseri):** sinais principais = tempo de exibição, curtidas por alcance, **envios por alcance** (pesa mais para não seguidores).
 
 **Brasil / legal:** CDC art. 49 (7 dias de arrependimento); Decreto 7.962/2013 (identificação do vendedor na página); LGPD (consentimento para marketing no WhatsApp/e-mail); MEI nem sempre cobre infoproduto — orientar contador quando houver faturamento recorrente.
@@ -104,4 +111,4 @@ antes da VSL. Tudo detalhado em ESTUDO-GRATUITO.md e aplicado nos passos 7, 8, 9
 
 ## 9. Diário das sessões
 - **Sessão 1 (26–27/11/2026):** pesquisa de mercado (taxas Hotmart/Kiwify, Instagram 2026, Meta Andromeda, legal BR, lançamentos, WhatsApp); criado o método em 10 passos; reestruturado como tutoria 10×10 + cronograma de 30 dias a pedido do aluno; criada a página interativa com progresso na nuvem; preço ajustado para R$ 47 (venda via Meta); avaliados os cursos do Drive (não usados — cópias não autorizadas); pesquisado o conteúdo gratuito atual de Ladeira, Hormozi, Sobral, Finch e Meta 2026 e aplicado nos passos 2, 5 e 10; aluno pediu para **não estudar** — tutor aprende e orienta. Aluno iniciou o Dia 1 (tarefa 1.1).
-- **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo e depois a descrição completa (25 p.) do Scaling Secrets #182 → incorporados (gargalo do dia com painel à mão, hook rate, formatos e rotina de anúncios, fio de ouro/1-2-3 na copy, roteiro de live Perfect Webinar, mapa do Mês 2). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.
+- **Sessão 1, cont. (27/11/2026):** criada a memória e o CLAUDE.md; tentado liberar YouTube (bloqueado por verificação anti-robô); link muse.ai bloqueado (aluno não disse a origem); aluno enviou PDF-resumo e depois a descrição completa (25 p.) do Scaling Secrets #182 → incorporados (gargalo do dia com painel à mão, hook rate, formatos e rotina de anúncios, fio de ouro/1-2-3 na copy, roteiro de live Perfect Webinar, mapa do Mês 2). Depois enviou a transcrição da palestra do Ladeira no FIRE 2026 → incorporada (ângulos, 10 criativos, tipo de página, formatos simples). Página da trilha agora está compartilhada como "qualquer pessoa com o link" (mudança feita pelo aluno). Progresso no banco: nenhuma tarefa marcada ainda. Aluno envia materiais por PDF/texto — esse é o caminho que funciona.
