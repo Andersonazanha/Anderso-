@@ -181,6 +181,37 @@ Passo 10 (formatos, perfil de pesquisa, hook rate, painel diário, rotina semana
 - **Como entrou no plano:** Passo 2 (formatos simples), Passo 8 (tipo de página: dor espelhada + vídeo folheando o
   guia), Passo 10 (até 10 criativos, biblioteca de ângulos, regra "nunca Oi, gente").
 
+### Tiago Filemon — VSL e resposta direta (Scaling Secrets/VTurb, 2026) · transcrição de 61 p. enviada pelo aluno
+- **40% público, 40% oferta, 20% copy** (Brian Kurtz, *Overdeliver*); "multidão faminta" (Gary Halbert): venda o que o
+  público já está comprando. RFM: o melhor cliente é quem comprou **mais recentemente**.
+- **Funil VSL MVP:** anúncio → página com vídeo de vendas → checkout → pelo menos 1 upsell. Preço ideal de front-end com
+  VSL: R$ 197–497 (low ticket mais barato não precisa de VSL longa). Taxa de acerto ~30%: testar 3–5 versões.
+- **Produto de front-end:** resumo do método principal, ou um módulo extraído, ou modelar o que está em alta no nicho.
+- **Ofertas que escalam:** forte componente **"pronto para usar"** (o medo do comprador é "não vou conseguir") +
+  **demonstração** como prova (Polishop). Prova > promessa agressiva; promessas honestas vendem mais hoje.
+- **Pesquisa:** a melhor fonte são as ofertas que estão escalando no nicho (Biblioteca de Anúncios: muitos anúncios
+  ativos = escala; ferramentas de espionagem; Similarweb para tráfego de página); perfil/celular "burner"; **swipe file**.
+- **Estrutura invisível:** escolher 1 referência vencedora (ou a mais simples), mapear os elementos na ordem
+  (depoimento, promessa, benefício, dor…), seguir **mesma ordem e tamanho de cada bloco** com palavras próprias.
+  Modelar ≠ copiar. Não combinar referências.
+- **Blocos da VSL:** lead → história → mecanismo → oferta; **escrever de trás para frente** (oferta, mecanismo,
+  história, lead por último). "Copy não se escreve, se monta" (Schwartz).
+- **História:** a própria; ou de um cliente; ou de como descobriu o método. Serve para responder "quem é você?" e "por
+  que funcionaria pra mim?". Curta.
+- **Mecanismo (tese de marketing):** "o que fazer" + "como fazer", 3–8 pontos lógicos encadeados, simples. A pessoa
+  deve chegar à conclusão sozinha.
+- **Oferta:** produto → benefícios → conteúdo com **fascinações** (Clayton Makepeace) → para quem é/não é → ancoragem →
+  preço → CTA → garantia → bônus → resumo → **dois caminhos**.
+- **Lead:** o "trailer" — promessa + segmentação clara + prova + curiosidade sob um ângulo; ~15–20% do vídeo (~200–300
+  palavras); **testar 3 leads** de ângulos diferentes; aposta preferida: nos primeiros 30 s, mecanismo + promessa +
+  prova. Otimizar do topo para baixo; testar 2–3 leads novos por semana.
+- **Gravação:** natural > estúdio; vertical; celular serve; "o funil feio vende"; modelar formato do orgânico.
+- **Teste:** link na bio para primeira resposta; depois tráfego frio. Ele defende funil VSL **lucrativo**, não no
+  empate (no nosso low ticket, empate no começo só como fase de aprendizado; meta é lucro com bump/upsell).
+- **Como entrou no plano:** Passo 2 (Swipe File), Passo 5 ("pronto para usar" + demonstração), Passo 8 (modelagem
+  estrutural, escrever de trás para frente, mecanismo, história da descoberta, 3 aberturas, ordem da oferta,
+  fascinações, dois caminhos), Passo 10 (otimizar do topo, 2–3 aberturas/semana, acerto ~1 em 3).
+
 ### Contas de e-book com anúncio (referências de 2026)
 - **Faça a conta antes de ligar o anúncio:** custo por clique ÷ taxa de conversão da página = custo por venda. Ex.: clique de R$ 1,50 com 3% de conversão → R$ 50 por venda. Por isso precisamos de **preço R$ 47 + order bump + upsell**.
 - **Avalie o teste em ~7 dias**, não em 1. Um guia de 2026 para autores sugere encerrar o criativo quando o **CTR fica abaixo de ~0,7%** sem sinais de melhora.

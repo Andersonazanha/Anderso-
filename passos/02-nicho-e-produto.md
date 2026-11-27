@@ -58,6 +58,11 @@ Abra um Google Planilhas (**+ Novo → Planilhas Google**, nome `Ideias de nicho
 6. Clique em **Ver detalhes do anúncio** e depois no link → veja a página de vendas e o preço
 7. Na planilha, anote para cada ideia: nº de anunciantes, preço praticado, promessa principal
 
+8. **Monte seu "Swipe File"** (pasta de referências — todo grande copywriter tem, segundo Tiago Filemon): no Google
+   Drive, dentro de `01 Pesquisa`, crie a pasta `Swipe File`. Salve ali **prints e links dos anúncios e páginas de
+   vendas que estão anunciando há mais tempo** (= estão vendendo). Muitos anúncios ativos de um mesmo anunciante
+   também é sinal de que está escalando. Esse material vira a base da sua página e dos seus anúncios.
+
 ✔️ **Pronto quando:** cada uma das 10 ideias tem uma anotação.
 
 ## ✅ Tarefa 2.4 — Pesquise no mercado de afiliados (Hotmart)

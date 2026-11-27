@@ -85,6 +85,12 @@ o 1º segundo decide; página utilitária = vídeo de demonstração, educativa 
 seguidores não são necessários; high ticket só com WhatsApp + convite para aula (Mês 2). Plano ajustado: 10.3 agora
 pede 6–10 criativos (antes 4–6), também na trilha e no cronograma.
 
+**Tiago Filemon — VSL/resposta direta (transcrição enviada em 27/11):** 40% público/40% oferta/20% copy; oferta
+"pronto para usar" + demonstração; modelar estrutura (não texto) de 1 referência vencedora; escrever de trás para frente
+(oferta→mecanismo→história→lead); mecanismo = o que fazer + como fazer; história da descoberta do método (serve ao modo
+sem rosto); oferta com fascinações e "dois caminhos"; testar 3 leads; otimizar do topo; acerto ~1 em 3. Para a planilha
+de obra: entregar etapas/materiais preenchidos, cronograma de pagamento do pedreiro e modelo de recibo (pronto para usar).
+
 **Instagram 2026 (Mosseri):** sinais principais = tempo de exibição, curtidas por alcance, **envios por alcance** (pesa mais para não seguidores).
 
 **Brasil / legal:** CDC art. 49 (7 dias de arrependimento); Decreto 7.962/2013 (identificação do vendedor na página); LGPD (consentimento para marketing no WhatsApp/e-mail); MEI nem sempre cobre infoproduto — orientar contador quando houver faturamento recorrente.
@@ -121,3 +127,4 @@ pede 6–10 criativos (antes 4–6), também na trilha e no cronograma.
 - **27/11/2026:** aluno avisou que não vai usar WhatsApp e não quer aparecer → criado MODO-SEM-APARECER.md e plano adaptado.
 - **27/11/2026:** aluno respondeu a ficha (financeiro de construtora; quer tema procrastinação/prosperidade). Tutor pesquisou e recomendou planilha de controle financeiro de obra/reforma; procrastinação como plano C.
 - **27/11/2026:** aluno contou que montou a organização de custos na construtora; com receio, mas topou a ideia da planilha de obra. Tutor trouxe evidências de demanda e passou o Dia 3 (validação).
+- **27/11/2026:** aluno enviou transcrição do podcast com Tiago Filemon (VSL) → incorporada nos passos 2, 5, 8 e 10. Aguardando prints da tarefa 2.3.

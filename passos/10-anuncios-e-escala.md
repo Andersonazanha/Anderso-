@@ -201,6 +201,11 @@ Iniciam checkout, não compram               → CHECKOUT/Pix: recupere pelo Wha
 > mesmo vídeo trocando a cor são **1 conceito**. Com orçamento pequeno, **2 conceitos novos por semana** é o ritmo
 > certo. Quando um anúncio cansar (custo subindo, frequência alta), crie um **ângulo novo**, não uma variação.
 >
+**🔝 Otimize de cima para baixo (Tiago Filemon):** comece sempre pelo **topo do funil** — o anúncio e a **abertura da
+página** (título + primeiros segundos do vídeo). Mesmo texto, só trocando a abertura: uma versão dá prejuízo e outra
+dá lucro. Por isso, a cada semana teste **2 a 3 aberturas/títulos novos** antes de mexer no meio ou no fim da página.
+E tenha paciência: mesmo especialistas acertam **cerca de 1 em cada 3** versões — é normal precisar de 2 ou 3 testes.
+
 **🗓️ Rotina semanal de anúncios** (versão "1 pessoa" da rotina do Rodrigo Krueger):
 | Dia | O que fazer | Tempo |
 |---|---|---|

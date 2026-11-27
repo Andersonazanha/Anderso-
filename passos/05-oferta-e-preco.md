@@ -31,6 +31,15 @@ Use as frases da tarefa 4.9.
 | ⬇️ Tempo | Qual resultado ela consegue **no primeiro dia**? ("vitória rápida") | |
 | ⬇️ Esforço | O que posso entregar **pronto**? (checklists, listas de compras, modelos, scripts) | |
 
+> 🧠 **Tiago Filemon (Scaling Secrets/VTurb):** o sucesso de uma campanha é **40% público, 40% oferta e só 20% texto**.
+> E as ofertas que mais vendem têm sempre duas coisas:
+> 1. **"Pronto para usar"** — quem compra já tentou sozinho e falhou; o maior medo não é "o método funciona?", é
+>    **"eu vou conseguir fazer?"**. Quanto mais coisa você entregar **pronta**, mais vende.
+>    → Na planilha de obra: **etapas e materiais já preenchidos**, só colocar seus valores; **cronograma de pagamento
+>    do pedreiro por etapa pronto**; **modelo de combinado/recibo** para o pedreiro assinar.
+> 2. **Demonstração** — é a prova mais forte que existe (como os anúncios da Polishop). → Vídeo da tela mostrando a
+>    planilha avisando "sua obra vai estourar R$ 4.200 se continuar assim".
+
 ## ✅ Tarefa 5.3 — Crie o nome do e-book
 Cole na IA:
 ```

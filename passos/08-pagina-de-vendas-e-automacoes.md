@@ -26,6 +26,27 @@ Escreva a página de vendas do e-book, curta e direta, para ler no celular. Bloc
 9) Perguntas frequentes (5, respondendo às objeções) + último botão
 Frases curtas. Sem exageros. Sem promessas impossíveis.
 ```
+**🧭 Método do Tiago Filemon para escrever sem "inventar a roda":**
+1. **Modele a estrutura de quem já vende** (não copie o texto!): pegue a página de vendas do concorrente que mais
+   anuncia (salva no seu Swipe File, tarefa 2.3) e anote **na ordem** os blocos que ela usa — ex.: *depoimento →
+   promessa → benefícios → dor → quem sou → como funciona → oferta → garantia → bônus*. Siga **a mesma ordem e
+   tamanho parecido de cada bloco**, com as suas palavras. Escolha **uma** referência (a que mais vende ou a mais
+   simples) — não misture várias.
+2. **Escreva de trás para frente:** **oferta → mecanismo → história → abertura (lead)**. O título/abertura sai por último.
+3. **Mecanismo = "o que fazer" + "como fazer"** (3 a 8 pontos lógicos, simples):
+   - *O que fazer:* "controlar a obra **por etapa** e pagar o pedreiro **por etapa concluída**, comparando previsto × gasto toda semana"
+   - *Como fazer:* "com a planilha pronta, em 15 minutos por semana, até no celular"
+4. **História curta** (só para responder "quem é você?" e "por que vai funcionar pra mim?"). Como você não aparece,
+   use a **história da descoberta do método**: *"Trabalho no financeiro de uma construtora e montei o controle de custos
+   das obras. Vi que o que salva uma obra não é sorte: é controlar cada etapa…"*
+5. **Abertura (lead)** com 3 coisas nos primeiros segundos: **mecanismo + promessa + prova**, e dizendo **para quem é**.
+   Escreva **3 aberturas diferentes** (ângulos: dor, mecanismo, prova) para testar.
+6. **Bloco da oferta, nesta ordem:** apresentação do produto → benefícios → o que tem dentro (com **"fascinações"**: cada
+   parte com nome curioso + resultado, ex.: *"o Termômetro da Obra, que avisa antes de o dinheiro acabar"*) → para
+   quem é / não é → ancoragem de valor → preço → botão → garantia → bônus → resumo → **"dois caminhos"** (*"você pode
+   tentar controlar no caderno e descobrir o rombo no fim da obra… ou usar a planilha pronta hoje"*).
+7. **Prova vale mais que promessa exagerada.** Nada de "economize 50% garantido": mostre a planilha funcionando.
+
 **Antes de pedir à IA, faça 2 coisas à mão** (método do Rodrigo Krueger / Michael Masterson):
 1. **Fio de ouro:** escreva em 5–7 tópicos a "linha reta" de raciocínio do ponto A (a dor) ao ponto B (comprar o guia):
    *"isso acontece por causa daquilo → por isso as soluções comuns falham → o que resolve é X → o guia te dá X em Y dias"*.
