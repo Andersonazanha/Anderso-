@@ -1,15 +1,12 @@
-# 🎧 Estudo gratuito — o que ouvir e assistir (oficial e atualizado)
+# 🧠 Base de conhecimento do tutor
 
-Conteúdo **gratuito e oficial** dos próprios especialistas, escolhido para o seu caminho
-(e-book low ticket + anúncios na Meta). Pesquisado em **novembro de 2026**.
-
-> **Regra de ouro:** no máximo **15–20 minutos por dia**, de preferência ouvindo (no carro, academia, louça).
-> Estudo **nunca** substitui a tarefa do dia na [Trilha](https://claude.ai/artifact/1xWP9Qu4RZf41DVGa6nN8a).
-> Aprendeu algo que parece mudar o plano? **Me conte com suas palavras** e eu avalio.
+**Você não precisa estudar nada disto.** Aqui fica registrado o que o tutor pesquisou e aprendeu com os
+especialistas (novembro de 2026) — e que já está aplicado nas tarefas da
+[Trilha](https://claude.ai/artifact/1xWP9Qu4RZf41DVGa6nN8a). Seu trabalho é só seguir a tarefa do dia.
 
 ---
 
-## 📅 O que estudar em cada semana
+## 📅 Fontes que o tutor usou (para consulta, se um dia você quiser)
 
 ### Semana 1 (Dias 1–7) — Entender o jogo do low ticket
 | ⏱️ | Conteúdo | Por que agora |
